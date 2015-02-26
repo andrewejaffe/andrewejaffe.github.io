@@ -10,8 +10,9 @@ markdown: redcarpet
 # so be sure to set them if your theme uses them.
 #
 title : Jaffe Lab
-tagline: Computational Biology
-author : Andrew Jaffe
+tagline : Computational Biology
+author : 
+  name : Andrew Jaffe
   email : andrew.jaffe@libd.org
   github : andrewejaffe
   twitter : andrewejaffe
