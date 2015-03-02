@@ -6,7 +6,7 @@ permalink: "people.html"
 ---
 {% include JB/setup %}
 
-<img alt = "Andrew Jaffe" align="left" src="media/people/jaffe.jpg" width=150 height=150/>
+<img alt = "Andrew Jaffe" align="left" src="media/people/Jaffe.jpg" width=150 height=150/>
 &nbsp;&nbsp;&nbsp;Andrew Jaffe<br>
 &nbsp;&nbsp;&nbsp;Investigator<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
