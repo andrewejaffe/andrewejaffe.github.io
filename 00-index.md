@@ -42,3 +42,7 @@ Mail Address:<br>
 &nbsp;&nbsp;&nbsp;Baltimore, MD 21205<br>
 &nbsp;&nbsp;&nbsp;USA
 </p>
+
+------------------
+<img alt = "LIBD" align="left" src="media/LIBD_logo.jpg" width=196 height=114/>
+<img alt = "JHSPH" align="right" src="media/jhu-bloomberg-logo.jpg" width=295 height=172/>
