@@ -44,5 +44,5 @@ Mail Address:<br>
 </p>
 
 ------------------
-<img alt = "LIBD" align="left" src="media/LIBD_logo.jpg" width=196 height=114/>
+<img alt = "LIBD" align="left" src="media/LIBD_logo.jpg" width=245 height=142/>
 <img alt = "JHSPH" align="right" src="media/jhu-bloomberg-logo.jpg" width=295 height=172/>
