@@ -8,31 +8,18 @@ permalink: "publications.html"
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-Publication Repositories
-------------------------
-[Google Scholar Citations](https://scholar.google.com/citations?user=SYXodmQAAAAJ&hl=en) 
+### Publication Repositories
 
+#### [Google Scholar Citations](https://scholar.google.com/citations?user=SYXodmQAAAAJ&hl=en) 
+<br>
+### Research Papers
 
-Research Papers
----------------------
+#### 2015
 
-Marioni RE, Shah S, McRae AF, Chen BH, Colicino E, Harris SE, Gibson J, Henders AK, Redmond P, Cox SR, Pattie A, Corley J, Murphy L, Martin NG, Montgomery GW, Feinberg AP, Fallin MD, <b>Jaffe AE</b>, Multhaup ML, Joehanes R, Schwartz J, Just AC, Lunetta KL, Murabito JM, Starr JM, Horvath S, Baccarelli AA, Levy D, Visscher PM, Wray NR, Deary IJ. <br> 
+Marioni RE<sup>&lowast;</sup>, Shah S<sup>&lowast;</sup>, McRae AF<sup>&lowast;</sup>, Chen BH<sup>&lowast;</sup>, Colicino E<sup>&lowast;</sup>, Harris SE, Gibson J, Henders AK, Redmond P, Cox SR, Pattie A, Corley J, Murphy L, Martin NG, Montgomery GW, Feinberg AP, Fallin MD, <b>Jaffe AE</b>, Multhaup ML, Joehanes R, Schwartz J, Just AC, Lunetta KL, Murabito JM, Starr JM, Horvath S<sup>&dagger;</sup>, Baccarelli AA<sup>&dagger;</sup>, Levy D<sup>&dagger;</sup>, Visscher PM<sup>&dagger;</sup>, Wray NR<sup>&dagger;</sup>, Deary IJ<sup>&dagger;</sup>. <br> 
 Epigenetic signatures of age predict all-cause mortality in later life. <br> 
 Genome Biol. 2015 Jan 30;16(1):25. [DOI](http://genomebiology.com/2015/16/1/25/abstract)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25633388)
-
-Feinberg, JI, Bakulski KM, <b>Jaffe AE</b>, Trygvadottir R, Brown SC, Goldman LR, Croen LA, Hertz-Picciotto I, Newscha.er CJ, Fallin MD, Feinberg AP. Paternal sperm DNA methylation associated with early signs of autism risk in an autism-enriched cohort.<br> 
-International Journal of Epidemiology. In Press. 
-
-Bakulski KM, Lee HJ, Feinberg JI, Wells EM, Brown S, Herbstman JB, Witter FR, Halden RU, Caldwell K, Mortensen ME, Ja.e AE, Moye J, Caul.eld LE, Pan Y, Gold-man LR, Feinberg AP, Fallin MD. <br> 
-Prenatal mercury concentration is associated with changes in DNA methylation at TCEANC2 in newborns. <br> 
-International Journal of Epidemiology. In Press. 
-
-<b>Jaffe AE</b><sup>&dagger;</sup>, Shin J, Collado-Torres L, Leek JT, Tao R, Li C, Gao Y, Jia Y, Maher BJ, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>.<br> 
-Developmental regulation of human cortex transcription and its clinical relevance at base resolution. Nature Neuroscience. 2014 Dec 15. <br> 
-[DOI](http://dx.doi.org/10.1038/nn.3898)
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25501035)
-<span data-badge-type="4" data-doi="10.1038/nn.3898"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Multhaup ML<sup>&lowast;</sup>, Seldin M<sup>&lowast;</sup>, <b>Jaffe AE</b><sup>&lowast;</sup>, Lei X, Kirchner H, Mondal P, Li P, Rodriguez V, Drong A, Hussain M, Lindgren C, McCarthy M, Nslund E, Zierath JR, Wong GW, Feinberg AP<sup>&dagger;</sup>. <br> 
 Mouse-human experimental epigenetic analysis unmasks dietary targets and genetic liability for diabetic phenotypes. <br> 
@@ -41,19 +28,166 @@ Cell Metabolism 2015 Jan 6;21(1):138-49. <br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25565211)
 <span data-badge-type="4" data-doi="10.1016/j.cmet.2014.12.014"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+Feinberg JI, Bakulski KM, <b>Jaffe AE</b>, Trygvadottir R, Brown SC, Goldman LR, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Fallin MD, Feinberg AP<sup>&dagger;</sup>. Paternal sperm DNA methylation associated with early signs of autism risk in an autism-enriched cohort.<br> 
+International Journal of Epidemiology. In Press. 
+
+Bakulski KM<sup>&lowast;</sup>, Lee HJ<sup>&lowast;</sup>, Feinberg JI, Wells EM, Brown S, Herbstman JB, Witter FR, Halden RU, Caldwell K, Mortensen ME, <b>Jaffe AE</b>, Moye J, Caul.eld LE, Pan Y, Gold-man LR, Feinberg AP<sup>&dagger;</sup>, Fallin MD<sup>&dagger;</sup>. <br> 
+Prenatal mercury concentration is associated with changes in DNA methylation at TCEANC2 in newborns. <br> 
+International Journal of Epidemiology. In Press. 
+
+Frazee AC, Pertea G, <b>Jaffe AE</b>, Langmead B, Salzberg SL, Leek JT<sup>&dagger;</sup>. <br>
+Flexible isoform­level differential expression analysis with Ballgown. Nature Biotechnology, In Press. <br>
+[bioRxiv] (http://biorxiv.org/content/early/2014/03/30/003665)
+
+#### 2014
+
+<b>Jaffe AE</b><sup>&dagger;</sup>, Shin J, Collado-Torres L, Leek JT, Tao R, Li C, Gao Y, Jia Y, Maher BJ, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>.<br> 
+Developmental regulation of human cortex transcription and its clinical relevance at base resolution. Nature Neuroscience. 2014 Dec 15. <br> 
+[DOI](http://dx.doi.org/10.1038/nn.3898)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25501035)
+<span data-badge-type="4" data-doi="10.1038/nn.3898"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>Jaffe AE</b><sup>&lowast;</sup>, Deep-Soboslay A<sup>&lowast;</sup>, Tao R, Hauptman DT, Kaye WH, Weinberger DR, Hyde TM, Kleinman JE<sup>&dagger;</sup>. Genetic Neuropathology of Obsessive Psychiatric Syndromes. Translational Psychiatry. 2014 Sep 2;4:e432. <br> 
-[DOI](http://dx.doi.org/25180571)
+[DOI](http://dx.doi.org/10.1038/tp.2014.68)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25180571)
-<span data-badge-type="4" data-doi="25180571"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span data-badge-type="4" data-doi="10.1038/tp.2014.68"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Preprints
---------------------------------
+Birnbaum R, <b>Jaffe AE</b>, Qiang Chen, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>. <br>
+Investigation of the Prenatal Expression Patterns of 108 Schizophrenia-Associated Genetic Loci. Biological Psychiatry. October 21, 2014. <br>
+[DOI](http://dx.doi.org/10.1016/j.biopsych.2014.10.008)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25592863)
+
+Aryee MJ, <b>Jaffe AE</b>, Corrada-Bravo H, Ladd-Acosta C, Feinberg AP, Hansen KD<sup>&dagger;</sup>, Irizarry, RA<sup>&dagger;</sup>. <br>
+Minfi: A flexible and comprehensive Bioconductor package for the analysis of Infinium DNA Methylation microarrays. Bioinformatics. 2014 Jan 28 (Epub). <br>
+[DOI](http://dx.doi.org/10.1093/bioinformatics/btu049)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24478339)
+
+Birnbaum R, <b>Jaffe AE</b>, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>. <br>
+Investigating the prenatal expression patterns of genes associated with neuropsychiatric disorders. Am J Psychiatry. 2014 May 30. <br>
+[DOI](http://dx.doi.org/10.1176/appi.ajp.2014.13111452)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24874100)
+
+Tao R<sup>&lowast;</sup>, Cousijn H<sup>&lowast;</sup>, <b>Jaffe AE</b>, Burnet PW, Edwards F, Eastwood SL, Shin JH, Lane TA, Walker MA, Maher B, Weinberger DR, Harrison PJ, Hyde TM<sup>&dagger;</sup>, Kleinman JE. <br>
+ZNF804A Expression in Human Brain: A Novel Transcript Fetally Regulated by the Psychosis Risk SNP rs1344706, and Alterations in Schizophrenia, Bipolar Disorder and Major Depression. JAMA Psychiatry. 2014 Oct 1;71(10):1112-20. <br>
+[DOI](http://dx.doi.org/10.1001/jamapsychiatry.2014.1079)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25162540)
+
+Michailidi C, Soudry E, Brait M, Maldonado L, <b>Jaffe A</b>, Ili-Gangas C, Brebi-Mieville P, Perez J, Kim MS, Zhong X, Yang Q, Valle BL, Meltzer SJ, Torbenson MS, Irizarry RA, Esteller M, Sidransky D, Preston RG<sup>&dagger;</sup>. <br>
+Genomewide and gene-specific epigenomic platforms for biomarker development trials. Gastroenterol Res Pract. 2014;2014:597164. Epub 2014 Apr 17. <br>
+[DOI](http://dx.doi.org/10.1155/2014/597164)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24829571)
+ 
+#### 2013
+
+<b>Jaffe AE</b>, Storey JD, Ji HK, Leek JT<sup>&dagger;</sup>. <br>
+Gene set bagging for estimating the probability a statistically significant result will replicate. BMC Bioinformatics, 2013 Dec 12;14(1):360. <br>
+[DOI](http://dx.doi.org/10.1186/1471-2105-14-360)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24330332)
+
+Gnanakkan VP, <b>Jaffe AE</b>, Dai L, Fu J, Wheelan SJ, Levitsky HI, Boeke JD<sup>&dagger;</sup>, Burns KH<sup>&dagger;</sup>.<br>
+TE-array: a high-throughput tool to study transposon transcription. BMC Genomics. 2013 Dec 10;14(1):869. <br>
+[DOI](http://dx.doi.org/10.1186/1471-2164-14-869)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24325565)
+
+Oliver VF<sup>&lowast;</sup>, Franchina M<sup>&lowast;</sup>, <b>Jaffe AE</b>, Branham KE, Othman M, Heckenlively JR, Swaroop A, Campochiaro B, Vote BJ, Craig JE, Saffery R, Mackey DA, Qian J, Zack DJ, Hewitt AW<sup>&dagger;</sup>, Merbs SL<sup>&dagger;</sup>. <br>
+Hypomethylation of the IL17RC Promoter in Peripheral Blood Leukocytes is Not A Hallmark of Age-Related Macular Degeneration. Cell Reports, 2013 Dec 26;5(6):1527-35. <br>
+[DOI](http://dx.doi.org/10.1016/j.celrep.2013.11.042)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24373284)
+
+<b>Jaffe AE</b>, Eaton WW, Marenco S, Straub RE, Weinberger DR<sup>&dagger;</sup>.<br>
+Paternal age, de novo mutations and schizophrenia. Molecular Psychiatry, advance online publication, 11 June 2013 <br>
+[DOI](http://dx.doi.org/10.1038/mp.2013.76)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/23752248)
+
+Schwartzman A<sup>&dagger;</sup>, <b>Jaffe AE</b>, Gavrilov Y, Meyer CA. <br>
+Multiple testing of local maxima for detection of peaks in ChIP-seq data. Ann. Appl. Stat. Volume 7, Number 1 (2013), 471-494. <br>
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25411587)
+
+Horiuchi Y, Kano S, Ishizuka K, Cascella NG, Ishii S, Talbot CC, <b>Jaffe AE</b>, Okano H, Pevsner J, Colantuoni C, Sawa A<sup>&dagger;</sup>. <br>
+Olfactory cells via nasal biopsy re.ect the developing brain in its expression profiles: utility and limitation of the surrogate tissues in research for brain disorders. Neuroscience Research, 2013 Oct 11. pii: S0168-0102(13)00207-1. <br>
+[DOI](http://dx.doi.org/10.1016/j.neures.2013.09.010)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24120685)
+
+#### 2012
+
+<b>Jaffe AE</b>, Murakami P, Lee H, Fallin MD, Leek JT, Feinberg AP, Irizarry RA<sup>&dagger;</sup>. <br>
+Bump hunting to identify differentially methylated regions in epigenetic epidemiology studies. Int. J. Epidemiol. (2012) 41 (1):200-209. <br>
+[DOI](http://dx.doi.org/10.1093/ije/dyr238)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/22422453)
+
+Lee H<sup>&lowast;</sup>, <b>Jaffe AE</b><sup>&lowast;</sup>, Feinberg JI, Tryggvadottir R, Brown S, Montano C, Aryee MJ, Irizarry RA, Herbstman J, Witter FR, Goldman LR, Feinberg AP<sup>&dagger;</sup>, Fallin MD<sup>&dagger;</sup>. <br>
+DNA methylation shows genome-wide association of NFIX, RAPGEF2, and MSRB3 with Gestational Age at Birth. Int. J. Epidemiol. (2012) 41 (1):188-199. <br>
+[DOI](http://dx.doi.org/10.1093/ije/dyr237)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/22422452)
+
+Leek JT<sup>&dagger;</sup>, Johnson WE, Parker HS, <b>Jaffe AE</b>, Storey JD. <br>
+The sva package for removing batch effects and other unwanted variation in high-throughput experiments. Bioinformatics. January 17, 2012 (Epub). <br>
+[DOI](http://dx.doi.org/10.1093/bioinformatics/bts034)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/22257669)
+
+<b>Jaffe AE</b>, Feinberg AP, Irizarry RA, Leek JT<sup>&dagger;</sup>. <br>
+Significance analysis and statistical dissection of variably methylated regions. Biostatistics. 2012; 13(1): 166-178. <br>
+[DOI](http://dx.doi.org/10.1093/biostatistics/kxr013)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21685414)
+
+Bliss LA, Sams MR, Deep-Soboslay A, Ren-Patterson R, <b>Jaffe AE</b>, Chenoweth JG, Jaishankar A, Kleinman JE, Hyde TM<sup>&dagger;</sup>. <br>
+Use of postmortem human dura mater and scalp for deriving human fibroblast cultures. PLoS ONE 7(9): e45282 (2012). <br>
+[DOI](http://dx.doi.org/10.1371/journal.pone.0045282)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/23028905)
+
+#### 2011
+
+<b>Jaffe A</b><sup>&lowast;</sup>, Wojcik G<sup>&lowast;</sup>, Chu A, Golozar A, Maroo A, Duggal P, Klein AP<sup>&dagger;</sup>. <br>
+Identification of functional genetic variation in exomic sequence analysis. Genetic Analysis Workshop 17. October 13-16, 2010. Boston, MA. BMC Proceedings 2011, 5(Suppl9):S13 (29 November 2011). <br>
+[DOI](http://dx.doi.org/10.1186/1753-6561-5-S9-S13)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/22373437)
+
+Vincent A, Omura N, Hong S, <b>Jaffe A</b>, Eshleman J, Goggins M<sup>&dagger;</sup>.<br>
+Genome-wide analysis of promoter methylation associated with gene expression profile in pancreatic adeno­carcinoma. Clinical Cancer Research, 2011 June 28. <br>
+[DOI](http://dx.doi.org/10.1158/1078-0432.CCR-10-3431)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21610144) 
+
+Guerrero-Preston R, Soudry E, <b>Jaffe A</b>, Ili-Gangas C, Brebi-Mieville P, Zhong X, Yang Q, Meltzer S, and Sidransky, D<sup>&dagger;</sup>. <br>
+NID2 and HOXA9 promoter hypermethylation as biomarkers for prevention and early detection in oral cavity squamous cell carcinoma tissues and saliva. Cancer Prevention Research. 2011 May 10. <br>
+[DOI](http://dx.doi.org/10.1158/1940-6207.CAPR-11-0006)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/21558411)
+
+#### 2010
+
+Guerrero-Preston R<sup>&dagger;</sup>, Goldman L, Brebi-Mieville P, Ili-Gangas C, LeBron C, Hernndez-Arroyo M, Witter F, Apelberg B, Roystacher M, <b>Jaffe A</b>, Halden R, Sidransky D<sup>&dagger;</sup>. <br>
+Global DNA hypomethylation is associated with in utero exposure to cotinine and perfluorinated alkyl compounds. Epigenetics. 2010 Aug 14;5(6). <br>
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/20523118)
+
+#### 2009
+
+Ganesh SK<sup>&dagger;</sup><sup>&lowast;</sup>, Zakai NA<sup>&lowast;</sup>, van Rooij FJ<sup>&lowast;</sup>, Soranzo N<sup>&lowast;</sup>, Smith AV<sup>&lowast;</sup>, Nalls MA<sup>&lowast;</sup>, Chen MH, Kottgen A, Glazer NL, Dehghan A, Kuhnel B, Aspelund T, Yang Q, Tanaka T, <b>Jaffe A</b>, Bis JC, Verwoert GC, Teumer A, Fox CS, Guralnik JM, Ehret GB, Rice K, Felix JF, Rendon A, Eiriksdottir G, Levy D, Patel KV, Boerwinkle E, Rotter JI, Hofman A, Sambrook JG, Hernandez DG, Zheng G, Bandinelli S, Singleton AB, Coresh J, Lumley T, Uitter­linden AG, Vangils JM, Launer LJ, Cupples LA, Oostra BA, Zwaginga JJ, Ouwehand WH, Thein SL, Meisinger C, Deloukas P, Nauck M, Spector TD, Gieger C, Gudnason V, van Duijn CM, Psaty BM, Ferrucci L, Chakravarti A, Greinacher A<sup>&lowast;</sup>, O’Donnell CJ<sup>&lowast;</sup><sup>&dagger;</sup>, Witteman JC<sup>&lowast;</sup>, Furth S<sup>&lowast;</sup>, Cushman M<sup>&lowast;</sup>, Harris TB<sup>&lowast;</sup>, Lin JP<sup>&lowast;</sup>. <br>
+Multiple loci influence erythrocyte phenotypes in the CHARGE consortium. Nature Genetics, 2009 Nov;41(11):1191-8. <br>
+[DOI](http://dx.doi.org/10.1038/ng.466)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/19862010 )
+
+### Preprints
+
+<b>Jaffe AE</b><sup>&dagger;</sup> , Gao Y, Tao R, Hyde TM, Weinberger DR, Kleinman JE.<br>
+The epigenetic landscape of the human frontal cortex across development. <br>
+[bioRxiv] (http://biorxiv.org/content/early/2014/03/30/003665)
+
+Collado-Torres L, Frazee AC, MI Love, Irizarry RA, <b>Jaffe AE</b><sup>&dagger;</sup>, Leek JT<sup>&dagger;</sup> <br>
+derfinder: Software for annotation-agnostic RNA-seq differential expression analysis. <br>
+[bioRxiv] (http://biorxiv.org/content/early/2015/02/19/015370)
 
 
-Other
------
+Frazee AC, <b>Jaffe AE</b>, Langmead B, Leek JT.<br>
+Polyester: simulating RNA-seq datasets with differential transcript expression. <br>
+[bioRxiv] (http://biorxiv.org/content/early/2014/12/12/006015)
 
+### Other
 
+Fertig EJ, Stein-O’Brien G, <b>Jaffe A</b>, Colantuoni C. <br>
+Pattern Identification in Time-Course Gene Expression Data with the CoGAPS Matrix Factorization. Methods Mol Biol. 2014;1101:87-112. 
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/24233779 )
+
+Frazee AC, Torres LC, <b>Jaffe AE</b>, Langmead B, Leek JT. Measurement, Summary, and Methodological Variation in RNA-sequencing. Statistical Analysis of Next Generation Sequencing Data. 2014: 115-128. 
+
+---------------------
 <sup>&lowast;</sup> indicates equal contribution <br>
 <sup>&dagger;</sup> indicates corresponding author
