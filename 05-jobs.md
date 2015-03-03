@@ -25,7 +25,7 @@ Requirements:
 
 #### Research Scientist: Statistical Genetics/Biostatistics: 
 
-This position primarily involves performing statitical analyses across ongoing large-scale genomics, clinical genetics, neuroimaging, and stem cell biology at the Lieber Institute. The successful applicant will work closely with biologists at LIBD in designing experiments, analyzing data, and contributing to the writing of manuscripts as well as grants. 
+This position primarily involves performing statistical analyses across ongoing large-scale genomics, clinical genetics, neuroimaging, and stem cell biology at the Lieber Institute. The successful applicant will work closely with researchers at LIBD in designing experiments, analyzing data, and contributing to the writing of manuscripts as well as grants. 
 
 Requirements: 
 
