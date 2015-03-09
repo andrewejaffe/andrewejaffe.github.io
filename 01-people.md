@@ -19,9 +19,9 @@ permalink: "people.html"
 
 <img alt = "Leonardo Collado-Torres" align="left" src="media/people/leonardo.png" width=150 height=150/>
 &nbsp;&nbsp;&nbsp;Leonardo Collado-Torres<br>
-&nbsp;&nbsp;&nbsp;Graduate Student in Biostatistics<br>
+&nbsp;&nbsp;&nbsp;PhD Student<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.biostat.jhsph.edu)<br>
-&nbsp;&nbsp;&nbsp;Johns Hopkins University<br>
+&nbsp;&nbsp;&nbsp;[Johns Hopkins Bloomberg School of Public Health](www.jhsph.edu)<br>
 <br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.biostat.jhsph.edu/~lcollado/#.VO-HmvnF98E)<br>
 <br><br><br><br><br><br>
@@ -30,6 +30,14 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Nikolay Ivanov<br>
 &nbsp;&nbsp;&nbsp;Research Associate<br>
 &nbsp;&nbsp;&nbsp;Lieber Institute for Brain Development<br>
+<br><br><br><br><br><br><br><br><br><br>
+
+
+<img alt = "Amanda Price" align="left" src="media/people/amanda.jpg" width=150 height=150/>
+&nbsp;&nbsp;&nbsp;Amanda Price<br>
+&nbsp;&nbsp;&nbsp;PhD Student<br>
+&nbsp;&nbsp;&nbsp;Human Genetics Program<br>
+&nbsp;&nbsp;&nbsp;[Institute of Genetic Medicine](http://igm.jhmi.edu/)<br>
 <br><br><br><br><br><br>
 
 
