@@ -33,3 +33,6 @@ Requirements:
 * Proficiency in R, particularly the Bioconductor software suite
 * Excellent analytical and problem-solving skills
 * Excellent written and verbal communication skills 
+
+#####
+Interested applicants should submit a cover letter, their curriculum vitae and the names and contact information of three references to: andrew.jaffe@libd.org.  The Lieber Institute is an equal opportunity employer that values diversity in the workplace, and qualified candidates must be legally authorized to be employed in the USA.
