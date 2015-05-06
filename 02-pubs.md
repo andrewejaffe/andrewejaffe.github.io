@@ -40,6 +40,11 @@ Nat Biotechnol. 2015 Mar;33(3):243-6. <br>
 [DOI](http://dx.doi.org/10.1038/nbt.3172)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25748911)
 
+Frazee AC, <b>Jaffe AE</b>, Langmead B, Leek JT.<br>
+Polyester: simulating RNA-seq datasets with differential transcript expression. <br>
+Bioinformatics. 2015 Apr 28. <br>
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25926345)
+
 Feinberg JI, Bakulski KM, <b>Jaffe AE</b>, Trygvadottir R, Brown SC, Goldman LR, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Fallin MD, Feinberg AP<sup>&dagger;</sup>. Paternal sperm DNA methylation associated with early signs of autism risk in an autism-enriched cohort.<br> 
 Int J Epidemiol. 2015 Apr 14 (Epub) <br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25878217)
@@ -181,9 +186,6 @@ derfinder: Software for annotation-agnostic RNA-seq differential expression anal
 [bioRxiv] (http://biorxiv.org/content/early/2015/02/19/015370)
 
 
-Frazee AC, <b>Jaffe AE</b>, Langmead B, Leek JT.<br>
-Polyester: simulating RNA-seq datasets with differential transcript expression. <br>
-[bioRxiv] (http://biorxiv.org/content/early/2014/12/12/006015)
 
 ### Other
 
