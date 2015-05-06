@@ -16,6 +16,12 @@ permalink: "publications.html"
 
 #### 2015
 
+<b>Jaffe AE</b><sup>&dagger;</sup>, Shin J, Collado-Torres L, Leek JT, Tao R, Li C, Gao Y, Jia Y, Maher BJ, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>.<br> 
+Developmental regulation of human cortex transcription and its clinical relevance at base resolution. Nature Neuroscience. 2015 Jan;18(1):154-61. <br> 
+[DOI](http://dx.doi.org/10.1038/nn.3898)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25501035)
+<span data-badge-type="4" data-doi="10.1038/nn.3898"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Marioni RE<sup>&lowast;</sup>, Shah S<sup>&lowast;</sup>, McRae AF<sup>&lowast;</sup>, Chen BH<sup>&lowast;</sup>, Colicino E<sup>&lowast;</sup>, Harris SE, Gibson J, Henders AK, Redmond P, Cox SR, Pattie A, Corley J, Murphy L, Martin NG, Montgomery GW, Feinberg AP, Fallin MD, <b>Jaffe AE</b>, Multhaup ML, Joehanes R, Schwartz J, Just AC, Lunetta KL, Murabito JM, Starr JM, Horvath S<sup>&dagger;</sup>, Baccarelli AA<sup>&dagger;</sup>, Levy D<sup>&dagger;</sup>, Visscher PM<sup>&dagger;</sup>, Wray NR<sup>&dagger;</sup>, Deary IJ<sup>&dagger;</sup>. <br> 
 Epigenetic signatures of age predict all-cause mortality in later life. <br> 
 Genome Biol. 2015 Jan 30;16(1):25. [DOI](http://genomebiology.com/2015/16/1/25/abstract)
@@ -28,24 +34,23 @@ Cell Metabolism 2015 Jan 6;21(1):138-49. <br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25565211)
 <span data-badge-type="4" data-doi="10.1016/j.cmet.2014.12.014"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+Frazee AC, Pertea G, <b>Jaffe AE</b>, Langmead B, Salzberg SL, Leek JT<sup>&dagger;</sup>. <br>
+Ballgown bridges the gap between transcriptome assembly and expression analysis. <br>
+Nat Biotechnol. 2015 Mar;33(3):243-6. <br>
+[DOI](http://dx.doi.org/10.1038/nbt.3172)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25748911)
+
 Feinberg JI, Bakulski KM, <b>Jaffe AE</b>, Trygvadottir R, Brown SC, Goldman LR, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Fallin MD, Feinberg AP<sup>&dagger;</sup>. Paternal sperm DNA methylation associated with early signs of autism risk in an autism-enriched cohort.<br> 
-International Journal of Epidemiology. In Press. 
+Int J Epidemiol. 2015 Apr 14 (Epub) <br>
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25878217)
 
 Bakulski KM<sup>&lowast;</sup>, Lee HJ<sup>&lowast;</sup>, Feinberg JI, Wells EM, Brown S, Herbstman JB, Witter FR, Halden RU, Caldwell K, Mortensen ME, <b>Jaffe AE</b>, Moye J, Caul.eld LE, Pan Y, Gold-man LR, Feinberg AP<sup>&dagger;</sup>, Fallin MD<sup>&dagger;</sup>. <br> 
 Prenatal mercury concentration is associated with changes in DNA methylation at TCEANC2 in newborns. <br> 
-International Journal of Epidemiology. In Press. 
+Int J Epidemiol. 2015 Apr 22. <br>
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25906783)
 
-Frazee AC, Pertea G, <b>Jaffe AE</b>, Langmead B, Salzberg SL, Leek JT<sup>&dagger;</sup>. <br>
-Flexible isoform­level differential expression analysis with Ballgown. Nature Biotechnology, In Press. <br>
-[bioRxiv] (http://biorxiv.org/content/early/2014/03/30/003665)
 
 #### 2014
-
-<b>Jaffe AE</b><sup>&dagger;</sup>, Shin J, Collado-Torres L, Leek JT, Tao R, Li C, Gao Y, Jia Y, Maher BJ, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>.<br> 
-Developmental regulation of human cortex transcription and its clinical relevance at base resolution. Nature Neuroscience. 2014 Dec 15. <br> 
-[DOI](http://dx.doi.org/10.1038/nn.3898)
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/25501035)
-<span data-badge-type="4" data-doi="10.1038/nn.3898"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>Jaffe AE</b><sup>&lowast;</sup>, Deep-Soboslay A<sup>&lowast;</sup>, Tao R, Hauptman DT, Kaye WH, Weinberger DR, Hyde TM, Kleinman JE<sup>&dagger;</sup>. Genetic Neuropathology of Obsessive Psychiatric Syndromes. Translational Psychiatry. 2014 Sep 2;4:e432. <br> 
 [DOI](http://dx.doi.org/10.1038/tp.2014.68)
