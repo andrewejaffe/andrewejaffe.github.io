@@ -45,6 +45,11 @@ Polyester: simulating RNA-seq datasets with differential transcript expression. 
 Bioinformatics. 2015 Apr 28. <br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25926345)
 
+Collado-Torres L, Jaffe AE and Leek JT. <br>
+regionReport: Interactive reports for region-based analyses. <br>
+F1000 Research. 2015, 4:105 <br> 
+[DOI](http://dx.doi.org/10.12688/f1000research.6379.1)
+
 Feinberg JI, Bakulski KM, <b>Jaffe AE</b>, Trygvadottir R, Brown SC, Goldman LR, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Fallin MD, Feinberg AP<sup>&dagger;</sup>. Paternal sperm DNA methylation associated with early signs of autism risk in an autism-enriched cohort.<br> 
 Int J Epidemiol. 2015 Apr 14 (Epub) <br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25878217)
@@ -179,7 +184,7 @@ Multiple loci influence erythrocyte phenotypes in the CHARGE consortium. Nature 
 
 <b>Jaffe AE</b><sup>&dagger;</sup> , Gao Y, Tao R, Hyde TM, Weinberger DR, Kleinman JE.<br>
 The epigenetic landscape of the human frontal cortex across development. <br>
-[bioRxiv] (http://biorxiv.org/content/early/2014/03/30/003665)
+[bioRxiv] (http://biorxiv.org/content/early/2014/05/27/005504)
 
 Collado-Torres L, Frazee AC, MI Love, Irizarry RA, <b>Jaffe AE</b><sup>&dagger;</sup>, Leek JT<sup>&dagger;</sup> <br>
 derfinder: Software for annotation-agnostic RNA-seq differential expression analysis. <br>
