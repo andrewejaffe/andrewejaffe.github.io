@@ -9,7 +9,8 @@ permalink: "teaching.html"
 Courses
 -------------
 
-Introduction to R for Public Health Researchers
-Summer 2015
-[Website](http://www.aejaffe.com/summerR_2015/)
-[Syllabus](http://www.aejaffe.com/summerR_2015/docs/Syllabus-summerR-student.doc)
+Introduction to R for Public Health Researchers (Summer 2015)
+
+- [Website](http://www.aejaffe.com/summerR_2015/)
+
+- [Syllabus](http://www.aejaffe.com/summerR_2015/docs/Syllabus-summerR-student.doc)
