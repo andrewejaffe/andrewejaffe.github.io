@@ -25,7 +25,7 @@ Requirements:
 * Excellent problem-solving skills
 * Excellent written and verbal communication skills 
 
-#### Research Scientist: Statistical Genetics/Biostatistics: 
+#### Data Scientist/Computational Biologist 
 
 This position primarily involves performing statistical analyses across ongoing large-scale genomics, clinical genetics, neuroimaging, and stem cell biology at the Lieber Institute. The successful applicant will work closely with researchers at LIBD in designing experiments, analyzing data, and contributing to the writing of manuscripts as well as grants. 
 
