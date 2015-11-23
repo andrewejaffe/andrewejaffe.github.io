@@ -16,8 +16,29 @@ permalink: "publications.html"
 
 #### 2015
 
+<b>Jaffe AE</b><sup>&dagger;</sup>, Gao Y, Deep-Soboslay A, Tao R, Hyde TM, Weinberger DR, Kleinman JE<br> 
+Mapping DNA methylation across development, genotype, and schizophrenia in the human frontal cortex.<br>
+Nature Neuroscience. In Press, 2015 <br> 
+
+<b>Jaffe AE</b><sup>&dagger;</sup> <br> 
+Postmortem human brain genomics in neuropsychiatric disorders - how far can we go?<br>
+Current Opinion in Neurobiology. In Press, 2015 <br> 
+
+<b>Jaffe AE</b>, Hyde  TM, Kleinman JE, Weinberger DR, Chenoweth JG, McKay R, Leek JT, Colantuoni C<sup>&dagger;</sup><br>.
+Practical Impacts of Genomic Data "Cleaning" on Biological Discovery. <br>
+BMC Bioinformatics. 2015, 16:372 <br>
+[DOI](http://dx.doi.org/10.1186/s12859-015-0808-5)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26545828)
+
+Oliver VF<sup>&lowast;</sup>, <b>Jaffe AE</b><sup>&lowast;</sup>, Song J, Wang G, Zhang P, Branham KE, Swaroop A, Eberhart CG, Zack DJ, Qian J, Merbs SL<sup>&dagger;</sup> <br>
+Differential DNA methylation identified in the blood and retina of AMD patients.<br>
+Epigenetics 10 (8), 698-707, 2015 <br>
+[DOI](http://dx.doi.org/10.1080/15592294.2015.1060388)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26067391)
+
 <b>Jaffe AE</b><sup>&dagger;</sup>, Shin J, Collado-Torres L, Leek JT, Tao R, Li C, Gao Y, Jia Y, Maher BJ, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>.<br> 
-Developmental regulation of human cortex transcription and its clinical relevance at base resolution. Nature Neuroscience. 2015 Jan;18(1):154-61. <br> 
+Developmental regulation of human cortex transcription and its clinical relevance at base resolution. <br>
+Nature Neuroscience. 2015 Jan;18(1):154-61. <br> 
 [DOI](http://dx.doi.org/10.1038/nn.3898)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25501035)
 <span data-badge-type="4" data-doi="10.1038/nn.3898"" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -50,7 +71,8 @@ regionReport: Interactive reports for region-based analyses. <br>
 F1000 Research. 2015, 4:105 <br> 
 [DOI](http://dx.doi.org/10.12688/f1000research.6379.1)
 
-Feinberg JI, Bakulski KM, <b>Jaffe AE</b>, Trygvadottir R, Brown SC, Goldman LR, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Fallin MD, Feinberg AP<sup>&dagger;</sup>. Paternal sperm DNA methylation associated with early signs of autism risk in an autism-enriched cohort.<br> 
+Feinberg JI, Bakulski KM, <b>Jaffe AE</b>, Trygvadottir R, Brown SC, Goldman LR, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Fallin MD, Feinberg AP<sup>&dagger;</sup><br>
+Paternal sperm DNA methylation associated with early signs of autism risk in an autism-enriched cohort.<br> 
 Int J Epidemiol. 2015 Apr 14 (Epub) <br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25878217)
 
@@ -182,13 +204,13 @@ Multiple loci influence erythrocyte phenotypes in the CHARGE consortium. Nature 
 
 ### Preprints
 
-<b>Jaffe AE</b><sup>&dagger;</sup> , Gao Y, Tao R, Hyde TM, Weinberger DR, Kleinman JE.<br>
-The epigenetic landscape of the human frontal cortex across development. <br>
-[bioRxiv] (http://biorxiv.org/content/early/2014/05/27/005504)
-
 Collado-Torres L, Frazee AC, MI Love, Irizarry RA, <b>Jaffe AE</b><sup>&dagger;</sup>, Leek JT<sup>&dagger;</sup> <br>
 derfinder: Software for annotation-agnostic RNA-seq differential expression analysis. <br>
 [bioRxiv] (http://biorxiv.org/content/early/2015/02/19/015370)
+
+Collado-Torres L, <b>Jaffe AE</b>, Leek JT<sup>&dagger;</sup> <br>
+regionReport: Interactive reports for region-based analyses. <br>
+[f1000] (http://f1000research.com/articles/4-105/v1)
 
 
 
