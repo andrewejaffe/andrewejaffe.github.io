@@ -16,7 +16,7 @@ permalink: "publications.html"
 
 #### 2015
 
-<b>Jaffe AE</b><sup>&dagger;</sup>, Gao Y, Deep-Soboslay A, Tao R, Hyde TM, Weinberger DR, Kleinman JE<br> 
+<b>Jaffe AE</b><sup>&dagger;</sup>, Gao Y, Deep-Soboslay A, Tao R, Hyde TM, Weinberger DR, Kleinman JE<br>
 Mapping DNA methylation across development, genotype, and schizophrenia in the human frontal cortex.<br>
 Nature Neuroscience. In Press, 2015 <br> 
 
@@ -24,7 +24,7 @@ Nature Neuroscience. In Press, 2015 <br>
 Postmortem human brain genomics in neuropsychiatric disorders - how far can we go?<br>
 Current Opinion in Neurobiology. In Press, 2015 <br> 
 
-<b>Jaffe AE</b>, Hyde  TM, Kleinman JE, Weinberger DR, Chenoweth JG, McKay R, Leek JT, Colantuoni C<sup>&dagger;</sup><br>.
+<b>Jaffe AE</b>, Hyde  TM, Kleinman JE, Weinberger DR, Chenoweth JG, McKay R, Leek JT, Colantuoni C<sup>&dagger;</sup> <br>
 Practical Impacts of Genomic Data "Cleaning" on Biological Discovery. <br>
 BMC Bioinformatics. 2015, 16:372 <br>
 [DOI](http://dx.doi.org/10.1186/s12859-015-0808-5)
@@ -45,7 +45,8 @@ Nature Neuroscience. 2015 Jan;18(1):154-61. <br>
 
 Marioni RE<sup>&lowast;</sup>, Shah S<sup>&lowast;</sup>, McRae AF<sup>&lowast;</sup>, Chen BH<sup>&lowast;</sup>, Colicino E<sup>&lowast;</sup>, Harris SE, Gibson J, Henders AK, Redmond P, Cox SR, Pattie A, Corley J, Murphy L, Martin NG, Montgomery GW, Feinberg AP, Fallin MD, <b>Jaffe AE</b>, Multhaup ML, Joehanes R, Schwartz J, Just AC, Lunetta KL, Murabito JM, Starr JM, Horvath S<sup>&dagger;</sup>, Baccarelli AA<sup>&dagger;</sup>, Levy D<sup>&dagger;</sup>, Visscher PM<sup>&dagger;</sup>, Wray NR<sup>&dagger;</sup>, Deary IJ<sup>&dagger;</sup>. <br> 
 Epigenetic signatures of age predict all-cause mortality in later life. <br> 
-Genome Biol. 2015 Jan 30;16(1):25. [DOI](http://genomebiology.com/2015/16/1/25/abstract)
+Genome Biol. 2015 Jan 30;16(1):25. <br>
+[DOI](http://genomebiology.com/2015/16/1/25/abstract)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25633388)
 
 Multhaup ML<sup>&lowast;</sup>, Seldin M<sup>&lowast;</sup>, <b>Jaffe AE</b><sup>&lowast;</sup>, Lei X, Kirchner H, Mondal P, Li P, Rodriguez V, Drong A, Hussain M, Lindgren C, McCarthy M, Nslund E, Zierath JR, Wong GW, Feinberg AP<sup>&dagger;</sup>. <br> 
