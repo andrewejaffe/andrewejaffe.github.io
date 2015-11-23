@@ -213,7 +213,7 @@ Collado-Torres L, <b>Jaffe AE</b>, Leek JT<sup>&dagger;</sup> <br>
 regionReport: Interactive reports for region-based analyses. <br>
 [f1000] (http://f1000research.com/articles/4-105/v1)
 
-Nellore A, Collado-Torres L, <b>Jaffe AE</b>, Morton J, Alquicira-Hernández J, Leek JT, Langmead B. <br>
+Nellore A, Collado-Torres L, <b>Jaffe AE</b>, Morton J, Alquicira-Hernández J, Leek JT, Langmead B <br>
 Rail-RNA: scalable analysis of RNA-seq splicing and coverage <br> 
 [bioRxiv] (http://dx.doi.org/10.1101/019067)
 
