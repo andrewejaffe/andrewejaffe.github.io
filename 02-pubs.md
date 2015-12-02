@@ -18,7 +18,10 @@ permalink: "publications.html"
 
 <b>Jaffe AE</b><sup>&dagger;</sup>, Gao Y, Deep-Soboslay A, Tao R, Hyde TM, Weinberger DR, Kleinman JE<br>
 Mapping DNA methylation across development, genotype, and schizophrenia in the human frontal cortex.<br>
-Nature Neuroscience. In Press, 2015 <br> 
+Nature Neuroscience. 2015 Nov 30. <br> 
+[DOI](http://dx.doi.org/10.1038/nn.4181)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26619358)
+<span data-badge-type="4" data-doi="10.1038/nn.4181"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>Jaffe AE</b><sup>&dagger;</sup> <br> 
 Postmortem human brain genomics in neuropsychiatric disorders - how far can we go?<br>
@@ -29,6 +32,12 @@ Practical Impacts of Genomic Data "Cleaning" on Biological Discovery. <br>
 BMC Bioinformatics. 2015, 16:372 <br>
 [DOI](http://dx.doi.org/10.1186/s12859-015-0808-5)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26545828)
+
+Akbarian S, Liu C, Knowles JA, Vaccarino FM, Farnham PJ, Crawford GE, <b>Jaffe AE</b>, Pinto D, Dracheva S, Geschwind DH, Mill J, Nairn AC, Abyzov A, Pochareddy S, Prabhakar S, Weissman S, Sullivan PF, State MW, Weng Z, Peters MA, White KP, Gerstein MB, Amiri A, Armoskus C, Ashley-Koch AE, Bae T, Beckel-Mitchener A, Berman BP, Coetzee GA, Coppola G, Francoeur N, Fromer M, Gao R, Grennan K, Herstein J, Kavanagh DH, Ivanov NA, Jiang Y, Kitchen RR, Kozlenkov A, Kundakovic M, Li M, Li Z, Liu S, Mangravite LM, Mattei E, Markenscoff-Papadimitriou E, Navarro FC, North N, Omberg L, Panchision D, Parikshak N, Poschmann J, Price AJ, Purcaro M, Reddy TE, Roussos P, Schreiner S, Scuderi S, Sebra R, Shibata M, Shieh AW, Skarica M, Sun W, Swarup V, Thomas A, Tsuji J, van Bakel H, Wang D, Wang Y, Wang K, Werling DM, Willsey AJ, Witt H, Won H, Wong CC, Wray GA, Wu EY, Xu X, Yao L, Senthil G, Lehner T, Sklar P, Sestan N. <br>
+The PsychENCODE project. <br>
+Nat Neurosci. 2015 Nov 25;18(12):1707-12. <br>
+[DOI](http://dx.doi.org/10.1038/nn.4156)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26605881)
 
 Oliver VF<sup>&lowast;</sup>, <b>Jaffe AE</b><sup>&lowast;</sup>, Song J, Wang G, Zhang P, Branham KE, Swaroop A, Eberhart CG, Zack DJ, Qian J, Merbs SL<sup>&dagger;</sup> <br>
 Differential DNA methylation identified in the blood and retina of AMD patients.<br>
