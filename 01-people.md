@@ -12,6 +12,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 &nbsp;&nbsp;&nbsp;[Assistant Professor](http://www.jhsph.edu/faculty/directory/profile/5291/Jaffe/Andrew%20E.)<br>
 &nbsp;&nbsp;&nbsp;[Department of Mental Health](http://www.jhsph.edu/departments/mental-health/)<br>
+&nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/)<br>
 &nbsp;&nbsp;&nbsp;[Johns Hopkins Bloomberg School of Public Health](www.jhsph.edu)<br>
 <br>
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/jaffe-cv.pdf)<br>
