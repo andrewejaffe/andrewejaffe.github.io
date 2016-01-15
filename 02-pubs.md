@@ -21,8 +21,8 @@ Mapping DNA methylation across development, genotype, and schizophrenia in the h
 Nature Neuroscience. 2015 Nov 30. <br> 
 [DOI](http://dx.doi.org/10.1038/nn.4181)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26619358)
-<span data-badge-type="4" data-doi="10.1038/nn.4181"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 [PDF](pdfs/jaffe_DNAm_develSz.pdf)
+<span data-badge-type="4" data-doi="10.1038/nn.4181"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>Jaffe AE</b><sup>&dagger;</sup> <br> 
 Postmortem human brain genomics in neuropsychiatric disorders - how far can we go?<br>
@@ -56,8 +56,8 @@ Developmental regulation of human cortex transcription and its clinical relevanc
 Nature Neuroscience. 2015 Jan;18(1):154-61. <br> 
 [DOI](http://dx.doi.org/10.1038/nn.3898)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25501035)
-<span data-badge-type="4" data-doi="10.1038/nn.3898"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 [PDF](pdfs/2_jaffeEtAl_NatNeuro2015.pdf)
+<span data-badge-type="4" data-doi="10.1038/nn.3898"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Marioni RE<sup>&lowast;</sup>, Shah S<sup>&lowast;</sup>, McRae AF<sup>&lowast;</sup>, Chen BH<sup>&lowast;</sup>, Colicino E<sup>&lowast;</sup>, Harris SE, Gibson J, Henders AK, Redmond P, Cox SR, Pattie A, Corley J, Murphy L, Martin NG, Montgomery GW, Feinberg AP, Fallin MD, <b>Jaffe AE</b>, Multhaup ML, Joehanes R, Schwartz J, Just AC, Lunetta KL, Murabito JM, Starr JM, Horvath S<sup>&dagger;</sup>, Baccarelli AA<sup>&dagger;</sup>, Levy D<sup>&dagger;</sup>, Visscher PM<sup>&dagger;</sup>, Wray NR<sup>&dagger;</sup>, Deary IJ<sup>&dagger;</sup>. <br> 
 Epigenetic signatures of age predict all-cause mortality in later life. <br> 
@@ -70,8 +70,8 @@ Mouse-human experimental epigenetic analysis unmasks dietary targets and genetic
 Cell Metabolism 2015 Jan 6;21(1):138-49. <br> 
 [DOI](http://dx.doi.org/10.1016/j.cmet.2014.12.014)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25565211)
-<span data-badge-type="4" data-doi="10.1016/j.cmet.2014.12.014"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 [PDF](pdfs/3_multhapEtAl_cellMetab2015.pdf)
+<span data-badge-type="4" data-doi="10.1016/j.cmet.2014.12.014"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Frazee AC, Pertea G, <b>Jaffe AE</b>, Langmead B, Salzberg SL, Leek JT<sup>&dagger;</sup>. <br>
 Ballgown bridges the gap between transcriptome assembly and expression analysis. <br>
@@ -107,14 +107,14 @@ Accounting for cellular heterogeneity is critical in epigenome-wide association 
 Genome Biol. 2014 Feb 4;15(2):R31 (Epub). <br>
 [DOI](http://dx.doi.org/10.1186/gb-2014-15-2-r31)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24495553)
-<span data-badge-type="4" data-doi="10.1186/gb-2014-15-2-r31"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 [PDF](pdfs/5_jaffeIrizarry_GenomeBio2014.pdf)
+<span data-badge-type="4" data-doi="10.1186/gb-2014-15-2-r31"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <b>Jaffe AE</b><sup>&lowast;</sup>, Deep-Soboslay A<sup>&lowast;</sup>, Tao R, Hauptman DT, Kaye WH, Weinberger DR, Hyde TM, Kleinman JE<sup>&dagger;</sup>. Genetic Neuropathology of Obsessive Psychiatric Syndromes. Translational Psychiatry. 2014 Sep 2;4:e432. <br> 
 [DOI](http://dx.doi.org/10.1038/tp.2014.68)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25180571)
-<span data-badge-type="4" data-doi="10.1038/tp.2014.68"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 [PDF](pdfs/4_jaffeEtAl_TransPsych2015.pdf)
+<span data-badge-type="4" data-doi="10.1038/tp.2014.68"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Birnbaum R, <b>Jaffe AE</b>, Qiang Chen, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>. <br>
 Investigation of the Prenatal Expression Patterns of 108 Schizophrenia-Associated Genetic Loci. Biological Psychiatry. October 21, 2014. <br>
