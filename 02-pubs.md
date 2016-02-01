@@ -26,7 +26,7 @@ Nature Neuroscience. 2016 Jan;19(1):40-7. <br>
 
 Ivanov NA, Tao R, Chenoweth JG, Brandtjen A, Mighdoll MI, Genova JD, McKay RD, Jia Y, Weinberger DR, Kleinman JE, Hyde TM, <b>Jaffe AE</b><sup>&dagger;</sup> <br>
 Strong Components of Epigenetic Memory in Cultured Human Fibroblasts Related to Site of Origin and Donor Age <br>
-PLOS Genetics, In Press.
+PLOS Genetics, In Press. <br>
 [bioRxiv](http://dx.doi.org/10.1101/025288)
 
 Calcaterra NE, Hoeppner DJ, Wei H, <b>Jaffe AE</b>, Maher BJ, Barrow JC<sup>&dagger;</sup>  <br>
