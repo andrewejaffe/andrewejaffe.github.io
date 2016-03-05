@@ -26,12 +26,15 @@ Nature Neuroscience. 2016 Jan;19(1):40-7. <br>
 
 Ivanov NA, Tao R, Chenoweth JG, Brandtjen A, Mighdoll MI, Genova JD, McKay RD, Jia Y, Weinberger DR, Kleinman JE, Hyde TM, <b>Jaffe AE</b><sup>&dagger;</sup> <br>
 Strong Components of Epigenetic Memory in Cultured Human Fibroblasts Related to Site of Origin and Donor Age <br>
-PLOS Genetics, In Press. <br>
-[bioRxiv](http://dx.doi.org/10.1101/025288)
+PLoS Genet. 2016 Feb 25;12(2):e1005819 <br>
+[DOI](http://dx.doi.org/10.1371/journal.pgen.1005819)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26913521)
 
 Calcaterra NE, Hoeppner DJ, Wei H, <b>Jaffe AE</b>, Maher BJ, Barrow JC<sup>&dagger;</sup>  <br>
 The Schizophrenia-Associated hERG channel Kv11.1-3.1 Exhibits a Unique Trafficking Deficit that is Rescued Through Proteasome Inhibition for High Throughput Screening<br>
-Scientific Reports, In Press.
+Sci Rep. 2016 Feb 16;6:19976. <br>
+[DOI](http://dx.doi.org/10.1038/srep19976)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26879421)
 
 #### 2015
 
