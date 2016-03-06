@@ -124,7 +124,9 @@ Genome Biol. 2014 Feb 4;15(2):R31 (Epub). <br>
 [PDF](pdfs/5_jaffeIrizarry_GenomeBio2014.pdf)
 <span data-badge-type="4" data-doi="10.1186/gb-2014-15-2-r31"" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-<b>Jaffe AE</b><sup>&lowast;</sup>, Deep-Soboslay A<sup>&lowast;</sup>, Tao R, Hauptman DT, Kaye WH, Weinberger DR, Hyde TM, Kleinman JE<sup>&dagger;</sup>. Genetic Neuropathology of Obsessive Psychiatric Syndromes. Translational Psychiatry. 2014 Sep 2;4:e432. <br> 
+<b>Jaffe AE</b><sup>&lowast;</sup>, Deep-Soboslay A<sup>&lowast;</sup>, Tao R, Hauptman DT, Kaye WH, Weinberger DR, Hyde TM, Kleinman JE<sup>&dagger;</sup>. <br>
+Genetic Neuropathology of Obsessive Psychiatric Syndromes. <br> 
+Translational Psychiatry. 2014 Sep 2;4:e432. <br> 
 [DOI](http://dx.doi.org/10.1038/tp.2014.68)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25180571)
 [PDF](pdfs/4_jaffeEtAl_TransPsych2015.pdf)
