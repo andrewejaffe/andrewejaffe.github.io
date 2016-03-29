@@ -45,5 +45,7 @@ Mail Address:<br>
 </p>
 
 ------------------
-<img alt = "LIBD" align="left" src="media/LIBD_logo.jpg" width=245 height=142/>
-<img alt = "JHSPH" align="right" src="media/jhu-bloomberg-logo.jpg" width=295 height=172/>
+<a href="http://libd.org">
+<img src="media/LIBD_logo.jpg" alt="Drawing" style="width: 250px;"/>
+<a href="http://jhsph.edu">
+<img src="media/jhu-bloomberg-logo.jpg" alt="Drawing" style="width: 250px;"/>
