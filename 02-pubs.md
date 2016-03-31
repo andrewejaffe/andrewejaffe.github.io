@@ -11,7 +11,7 @@ permalink: "publications.html"
 ### Publication Repositories
 
 #### [Google Scholar Citations](https://scholar.google.com/citations?user=SYXodmQAAAAJ&hl=en) 
-<br>
+
 ### Research Papers
 
 #### 2016
@@ -22,7 +22,7 @@ Nature Neuroscience. 2016 Jan;19(1):40-7. <br>
 [DOI](http://dx.doi.org/10.1038/nn.4181)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26619358)
 [PDF](pdfs/jaffe_DNAm_develSz.pdf)
-<span data-badge-type="4" data-doi="10.1038/nn.4181"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span class='altmetric-embed' data-badge-type='4' data-doi="10.1038/nn.4181"></span>
 
 Ivanov NA, Tao R, Chenoweth JG, Brandtjen A, Mighdoll MI, Genova JD, McKay RD, Jia Y, Weinberger DR, Kleinman JE, Hyde TM, <b>Jaffe AE</b><sup>&dagger;</sup> <br>
 Strong Components of Epigenetic Memory in Cultured Human Fibroblasts Related to Site of Origin and Donor Age <br>
@@ -30,11 +30,23 @@ PLoS Genet. 2016 Feb 25;12(2):e1005819 <br>
 [DOI](http://dx.doi.org/10.1371/journal.pgen.1005819)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26913521)
 
+Rannals MD, Hamersky GR, Page SC, Campbell MN, Briley A, Gallo RA, Phan BN, Hyde TM, Kleinman JE, Shin JH, <b>Jaffe AE</b>, Weinberger DR, Maher BJ<sup>&dagger;</sup> <br>
+Psychiatric Risk Gene Transcription Factor 4 Regulates Intrinsic Excitability of Prefrontal Neurons via Repression of SCN10a and KCNQ1. <br>
+Neuron. 2016 Mar 8. pii: S0896-6273(16)00138-0. <br>
+[DOI](10.1016/j.neuron.2016.02.021)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26971948)
+
 Calcaterra NE, Hoeppner DJ, Wei H, <b>Jaffe AE</b>, Maher BJ, Barrow JC<sup>&dagger;</sup>  <br>
 The Schizophrenia-Associated hERG channel Kv11.1-3.1 Exhibits a Unique Trafficking Deficit that is Rescued Through Proteasome Inhibition for High Throughput Screening<br>
 Sci Rep. 2016 Feb 16;6:19976. <br>
 [DOI](http://dx.doi.org/10.1038/srep19976)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26879421)
+
+Wolf RM<sup>&dagger;</sup>, Steele KE, Peterson LA, Zeng X, <b>Jaffe AE</b>, Schweitzer MA, Magnuson TH, Wong GW <br>
+C1q/TNF-related protein9 (CTRP9) levels are associated with obesity and decrease following weight loss surgery. <br>
+J Clin Endocrinol Metab. 2016 Mar 16:jc20161027. <br>
+[DOI](http://dx.doi.org/10.1210/jc.2016-1027)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26982010)
 
 #### 2015
 
@@ -71,7 +83,7 @@ Nature Neuroscience. 2015 Jan;18(1):154-61. <br>
 [DOI](http://dx.doi.org/10.1038/nn.3898)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25501035)
 [PDF](pdfs/2_jaffeEtAl_NatNeuro2015.pdf)
-<span data-badge-type="4" data-doi="10.1038/nn.3898"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span class='altmetric-embed' data-badge-type='4' data-doi="10.1038/nn.3898"></span>
 
 Marioni RE<sup>&lowast;</sup>, Shah S<sup>&lowast;</sup>, McRae AF<sup>&lowast;</sup>, Chen BH<sup>&lowast;</sup>, Colicino E<sup>&lowast;</sup>, Harris SE, Gibson J, Henders AK, Redmond P, Cox SR, Pattie A, Corley J, Murphy L, Martin NG, Montgomery GW, Feinberg AP, Fallin MD, <b>Jaffe AE</b>, Multhaup ML, Joehanes R, Schwartz J, Just AC, Lunetta KL, Murabito JM, Starr JM, Horvath S<sup>&dagger;</sup>, Baccarelli AA<sup>&dagger;</sup>, Levy D<sup>&dagger;</sup>, Visscher PM<sup>&dagger;</sup>, Wray NR<sup>&dagger;</sup>, Deary IJ<sup>&dagger;</sup>. <br> 
 Epigenetic signatures of age predict all-cause mortality in later life. <br> 
@@ -85,7 +97,7 @@ Cell Metabolism 2015 Jan 6;21(1):138-49. <br>
 [DOI](http://dx.doi.org/10.1016/j.cmet.2014.12.014)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25565211)
 [PDF](pdfs/3_multhapEtAl_cellMetab2015.pdf)
-<span data-badge-type="4" data-doi="10.1016/j.cmet.2014.12.014"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span class='altmetric-embed' data-badge-type='4' data-doi="10.1016/j.cmet.2014.12.014"></span>
 
 Frazee AC, Pertea G, <b>Jaffe AE</b>, Langmead B, Salzberg SL, Leek JT<sup>&dagger;</sup>. <br>
 Ballgown bridges the gap between transcriptome assembly and expression analysis. <br>
@@ -122,7 +134,7 @@ Genome Biol. 2014 Feb 4;15(2):R31 (Epub). <br>
 [DOI](http://dx.doi.org/10.1186/gb-2014-15-2-r31)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/24495553)
 [PDF](pdfs/5_jaffeIrizarry_GenomeBio2014.pdf)
-<span data-badge-type="4" data-doi="10.1186/gb-2014-15-2-r31"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span class='altmetric-embed' data-badge-type='4' data-doi="10.1186/gb-2014-15-2-r31"></span>
 
 <b>Jaffe AE</b><sup>&lowast;</sup>, Deep-Soboslay A<sup>&lowast;</sup>, Tao R, Hauptman DT, Kaye WH, Weinberger DR, Hyde TM, Kleinman JE<sup>&dagger;</sup>. <br>
 Genetic Neuropathology of Obsessive Psychiatric Syndromes. <br> 
@@ -130,7 +142,7 @@ Translational Psychiatry. 2014 Sep 2;4:e432. <br>
 [DOI](http://dx.doi.org/10.1038/tp.2014.68)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25180571)
 [PDF](pdfs/4_jaffeEtAl_TransPsych2015.pdf)
-<span data-badge-type="4" data-doi="10.1038/tp.2014.68"" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<span class='altmetric-embed' data-badge-type='4' data-doi="10.1038/tp.2014.68" data-hide-no-mentions="true"></span>
 
 Birnbaum R, <b>Jaffe AE</b>, Qiang Chen, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>. <br>
 Investigation of the Prenatal Expression Patterns of 108 Schizophrenia-Associated Genetic Loci. Biological Psychiatry. October 21, 2014. <br>
