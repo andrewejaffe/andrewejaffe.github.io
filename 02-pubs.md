@@ -33,7 +33,7 @@ PLoS Genet. 2016 Feb 25;12(2):e1005819 <br>
 Rannals MD, Hamersky GR, Page SC, Campbell MN, Briley A, Gallo RA, Phan BN, Hyde TM, Kleinman JE, Shin JH, <b>Jaffe AE</b>, Weinberger DR, Maher BJ<sup>&dagger;</sup> <br>
 Psychiatric Risk Gene Transcription Factor 4 Regulates Intrinsic Excitability of Prefrontal Neurons via Repression of SCN10a and KCNQ1. <br>
 Neuron. 2016 Mar 8. pii: S0896-6273(16)00138-0. <br>
-[DOI](10.1016/j.neuron.2016.02.021)
+[DOI](http://dx.doi.org/10.1016/j.neuron.2016.02.021)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26971948)
 
 Calcaterra NE, Hoeppner DJ, Wei H, <b>Jaffe AE</b>, Maher BJ, Barrow JC<sup>&dagger;</sup>  <br>
