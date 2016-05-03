@@ -9,7 +9,9 @@ permalink: "jobs.html"
 Available Positions
 -------------
 
-The [Jaffe Lab] (www.aejaffe.com) at the [Lieber Institute] (www.libd.org) is recruiting talented full-time biostatisticians and computational biologists who have previous experience working in human genetics. These individuals will primarily analyze genomic and clinical data, as well as provide analytic support for our programs in clinical science and neuroimaging, molecular genetics, next generation sequencing and stem cell biology.  Successful candidates will be committed to a common mission, a team effort, and collaborations across academia and industry. 
+<!--
+
+The [Jaffe Lab](www.aejaffe.com) at the [Lieber Institute](www.libd.org) is recruiting talented full-time biostatisticians and computational biologists who have previous experience working in human genetics. These individuals will primarily analyze genomic and clinical data, as well as provide analytic support for our programs in clinical science and neuroimaging, molecular genetics, next generation sequencing and stem cell biology.  Successful candidates will be committed to a common mission, a team effort, and collaborations across academia and industry. 
 
 Interested applicants should submit a cover letter, their curriculum vitae, example code (for example, a GitHub repository link) and the names and contact information of three references to: andrew.jaffe at libd.org .  The Lieber Institute is an equal opportunity employer that values diversity in the workplace, and qualified candidates must be legally authorized to be employed in the USA.
 
@@ -35,4 +37,4 @@ Requirements:
 * Proficiency in R, particularly the Bioconductor software suite
 * Excellent analytical and problem-solving skills
 * Excellent written and verbal communication skills 
-
+-->
