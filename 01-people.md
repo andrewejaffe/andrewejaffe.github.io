@@ -9,7 +9,7 @@ permalink: "people.html"
 <img src="media/people/Jaffe.jpg" alt="Andrew Jaffe" style="width: 150px;" align="left"/>
 
 &nbsp;&nbsp;&nbsp;Andrew Jaffe<br>
-&nbsp;&nbsp;&nbsp;[Investigator](http://libd.org/contact/staff-directory/27-andrew-jaffe)<br>
+&nbsp;&nbsp;&nbsp;[Lead Investigator](http://libd.org/contact/staff-directory/27-andrew-jaffe)<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 &nbsp;&nbsp;&nbsp;[Assistant Professor](http://www.jhsph.edu/faculty/directory/profile/5291/Jaffe/Andrew%20E.)<br>
 &nbsp;&nbsp;&nbsp;[Department of Mental Health](http://www.jhsph.edu/departments/mental-health/)<br>
