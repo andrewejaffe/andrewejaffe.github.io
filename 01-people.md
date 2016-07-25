@@ -27,25 +27,27 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.biostat.jhsph.edu/~lcollado/#.VO-HmvnF98E)<br>
 <br><br><br><br><br><br>
 
+
+<img src="media/people/emily.jpg" alt="Emily Burke" style="width: 125px;" align="left"/>
+&nbsp;&nbsp;&nbsp;Emily Burke<br>
+&nbsp;&nbsp;&nbsp;Research Associate<br>
+&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
+<br><br><br><br><br><br><br><br>
+
+<img src="media/people/badoi.jpg" alt="Badoi Phan" style="width: 125px;" align="left"/>
+&nbsp;&nbsp;&nbsp;Badoi Phan<br>
+&nbsp;&nbsp;&nbsp;Research Assistant<br>
+&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
+<br><br><br><br><br><br>
+
+## PhD Students
+
 <img src="media/people/amanda.jpg" alt="Amanda Price" style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Amanda Price<br>
 &nbsp;&nbsp;&nbsp;PhD Student<br>
 &nbsp;&nbsp;&nbsp;Human Genetics Program<br>
 &nbsp;&nbsp;&nbsp;[Institute of Genetic Medicine](http://igm.jhmi.edu/)<br>
 <br><br><br><br><br><br>
-
-<img src="media/people/emily.jpg" alt="Emily Burke" style="width: 125px;" align="left"/>
-&nbsp;&nbsp;&nbsp;Leonardo Collado-Torres<br>
-&nbsp;&nbsp;&nbsp;Research Associate<br>
-&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br><br><br>
-
-<img src="media/people/badoi.jpg" alt="Badoi Phan" style="width: 125px;" align="left"/>
-&nbsp;&nbsp;&nbsp;Leonardo Collado-Torres<br>
-&nbsp;&nbsp;&nbsp;Research Assistant<br>
-&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br>
-
 
 ## Alumni
 
