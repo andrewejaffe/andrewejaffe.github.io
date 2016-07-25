@@ -17,7 +17,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Johns Hopkins Bloomberg School of Public Health](www.jhsph.edu)<br>
 <br>
 &nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/jaffe-cv.pdf)<br>
-<br><br><br><br>
+<br><br>
 
 <img src="media/people/leonardo.png" alt="Leonardo Collado-Torres" style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Leonardo Collado-Torres<br>
