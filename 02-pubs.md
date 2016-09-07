@@ -38,7 +38,9 @@ Neuron. 2016 Mar 8. pii: S0896-6273(16)00138-0. <br>
 
 Nellore A, Collado-Torres L, <b>Jaffe AE</b>, Morton J, Alquicira-Hernández J, Leek JT, Langmead B <br>
 Rail-RNA: scalable analysis of RNA-seq splicing and coverage <br> 
-Bioinformatics, In Press.
+Bioinformatics. 2016 Sep 4. pii: btw575. [Epub ahead of print]
+[DOI](http://dx.doi.org/10.1093/bioinformatics/btw575)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27592709)
 
 Calcaterra NE, Hoeppner DJ, Wei H, <b>Jaffe AE</b>, Maher BJ, Barrow JC<sup>&dagger;</sup>  <br>
 The Schizophrenia-Associated hERG channel Kv11.1-3.1 Exhibits a Unique Trafficking Deficit that is Rescued Through Proteasome Inhibition for High Throughput Screening<br>
