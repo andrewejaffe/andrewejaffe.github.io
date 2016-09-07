@@ -36,6 +36,10 @@ Neuron. 2016 Mar 8. pii: S0896-6273(16)00138-0. <br>
 [DOI](http://dx.doi.org/10.1016/j.neuron.2016.02.021)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26971948)
 
+Nellore A, Collado-Torres L, <b>Jaffe AE</b>, Morton J, Alquicira-Hernández J, Leek JT, Langmead B <br>
+Rail-RNA: scalable analysis of RNA-seq splicing and coverage <br> 
+Bioinformatics, In Press.
+
 Calcaterra NE, Hoeppner DJ, Wei H, <b>Jaffe AE</b>, Maher BJ, Barrow JC<sup>&dagger;</sup>  <br>
 The Schizophrenia-Associated hERG channel Kv11.1-3.1 Exhibits a Unique Trafficking Deficit that is Rescued Through Proteasome Inhibition for High Throughput Screening<br>
 Sci Rep. 2016 Feb 16;6:19976. <br>
@@ -272,10 +276,6 @@ derfinder: Software for annotation-agnostic RNA-seq differential expression anal
 Collado-Torres L, <b>Jaffe AE</b>, Leek JT<sup>&dagger;</sup> <br>
 regionReport: Interactive reports for region-based analyses. <br>
 [f1000](http://f1000research.com/articles/4-105/v1)
-
-Nellore A, Collado-Torres L, <b>Jaffe AE</b>, Morton J, Alquicira-Hernández J, Leek JT, Langmead B <br>
-Rail-RNA: scalable analysis of RNA-seq splicing and coverage <br> 
-[bioRxiv](http://dx.doi.org/10.1101/019067)
 
 Nellore A, <b>Jaffe AE</b>, Fortin JP, Alquicira-Hernández J, Collado-Torres L, Wang S, Phillips RA, Karbhari N, Hansen KD, Langmead B<sup>&dagger;</sup> , Leek JT<sup>&dagger;</sup> <br>
 Human splicing diversity across the Sequence Read Archive <br>
