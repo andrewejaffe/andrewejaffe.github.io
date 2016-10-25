@@ -40,7 +40,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 <br><br><br><br><br><br>
 
-<img src="media/people/steve.jpg" alt="Stehpen Semick" style="width: 125px;" align="left"/>
+<img src="media/people/steve.jpg" alt="Steve Semick" style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Stehpen Semick<br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
