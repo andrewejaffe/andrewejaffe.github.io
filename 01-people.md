@@ -44,7 +44,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Stehpen Semick<br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## PhD Students
 
