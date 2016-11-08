@@ -19,6 +19,8 @@ permalink: "publications.html"
 Collado-Torres L, Nellore A, Frazee AC, Wilks C, Love MI, Langmead B, Irizarry RA, Leek JT<sup>&dagger;</sup>,<b>Jaffe AE</b><sup>&dagger;</sup> <br>
 Flexible expressed region analysis for RNA-seq with derfinder. <br>
 [NAR](http://nar.oxfordjournals.org/content/early/2016/09/29/nar.gkw852.full)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27694310)
+[PDF](pdfs/colladoTorres_derfinder.pdf)
 <span class='altmetric-embed' data-badge-type='4' data-doi="10.1093/nar/gkw852"></span>
 
 <b>Jaffe AE</b><sup>&dagger;</sup>, Gao Y, Deep-Soboslay A, Tao R, Hyde TM, Weinberger DR, Kleinman JE<br>
