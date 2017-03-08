@@ -14,6 +14,23 @@ permalink: "publications.html"
 
 ### Research Papers
 
+#### 2017
+
+Leonardo Collado-Torres<sup>&lowast;</sup>, Abhinav Nellore<sup>&lowast;</sup>, Kai Kammers, Shannon E Ellis, Margaret A Taub, Kasper D Hansen, <b>Andrew E Jaffe<b><sup>&dagger;</sup>, Ben Langmead<sup>&dagger;</sup>, Jeffrey T Leek<sup>&dagger;</sup> <br>
+recount2: A large-scale resource of analysis-ready RNA-seq expression data <br>
+Nature Biotechnology, 2017, In Press. <br>
+[bioRxiv](http://biorxiv.org/content/early/2016/08/08/068478)
+
+Birnbaum R, <b>Jaffe AE</b>, Chen Q, Shin JH, BrainSeq Consortium, Kleinman JE, Hyde TM, Weinberger DR <sup>&dagger;</sup> <br>
+Investigating the neuro-immunogenic architecture of schizophrenia <br>
+Molecular Psychiatry, 2017. In Press.
+
+Zheng SC, Beck S, <b>Jaffe AE</b>, Koestler DC, Hansen KD, Houseman AE, Irizarry RA, Teschendorff AE <sup>&dagger;</sup> <br>
+Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses. <br>
+Nat Methods. 2017 Feb 28;14(3):216-217. <br>
+[DOI](http://dx.doi.org/10.1038/nmeth.4187)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28245219)
+
 #### 2016
 
 Collado-Torres L, Nellore A, Frazee AC, Wilks C, Love MI, Langmead B, Irizarry RA, Leek JT<sup>&dagger;</sup>,<b>Jaffe AE</b><sup>&dagger;</sup> <br>
@@ -37,13 +54,32 @@ PLoS Genet. 2016 Feb 25;12(2):e1005819 <br>
 [DOI](http://dx.doi.org/10.1371/journal.pgen.1005819)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26913521)
 
+Li M, <b>Jaffe AE</b>, Straub RE, Tao R, Shin JH, Wang Y, Chen Q, Li C, Jia Y, Ohi K, Maher BJ, Brandon NJ, Cross A, Chenoweth JG, Hoeppner DJ, Wei H, Hyde TM, McKay R, Kleinman JE, Weinberger DR<sup>&dagger;</sup> <br>
+A human-specific AS3MT isoform and BORCS7 are molecular risk factors in the 10q24.32 schizophrenia-associated locus. <br>
+Nat Med. 2016 Jun;22(6):649-56. <br>
+[DOI](http://dx.doi.org/10.1038/nm.4096)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27158905)
+
+<b>Jaffe AE</b><sup>&dagger;</sup> , Kleinman JE <br>
+Genetic and epigenetic analysis of schizophrenia in blood—a no-brainer? <br>
+Genome Med. 2016 Sep 21;8(1):96.
+[DOI](http://dx.doi.org/10.1186/s13073-016-0354-4)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27655387)
+
+<b>Jaffe AE</b><sup>&dagger;</sup> <br> 
+Postmortem human brain genomics in neuropsychiatric disorders - how far can we go?<br>
+Current Opinion in Neurobiology. 2016 Feb 10;36:107-111. <br> 
+[DOI](http://dx.doi.org/10.1016/j.conb.2015.11.002)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26685806)
+[PDF](pdfs/jaffe_currOpinion.pdf)
+
 Rannals MD, Hamersky GR, Page SC, Campbell MN, Briley A, Gallo RA, Phan BN, Hyde TM, Kleinman JE, Shin JH, <b>Jaffe AE</b>, Weinberger DR, Maher BJ<sup>&dagger;</sup> <br>
 Psychiatric Risk Gene Transcription Factor 4 Regulates Intrinsic Excitability of Prefrontal Neurons via Repression of SCN10a and KCNQ1. <br>
 Neuron. 2016 Mar 8. pii: S0896-6273(16)00138-0. <br>
 [DOI](http://dx.doi.org/10.1016/j.neuron.2016.02.021)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26971948)
 
-Nellore A, Collado-Torres L, <b>Jaffe AE</b>, Morton J, Alquicira-Hernández J, Leek JT, Langmead B <br>
+Nellore A, Collado-Torres L, <b>Jaffe AE</b>, Morton J, Alquicira-Hernández J, Leek JT, Langmead B<sup>&dagger;</sup> <br>
 Rail-RNA: scalable analysis of RNA-seq splicing and coverage <br> 
 Bioinformatics. 2016 Sep 4. pii: btw575. [Epub ahead of print]
 [DOI](http://dx.doi.org/10.1093/bioinformatics/btw575)
@@ -61,14 +97,31 @@ J Clin Endocrinol Metab. 2016 Mar 16:jc20161027. <br>
 [DOI](http://dx.doi.org/10.1210/jc.2016-1027)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26982010)
 
-#### 2015
+Nellore A, <b>Jaffe AE</b>, Fortin JP, Alquicira-Hernández J, Collado-Torres L, Wang S, Phillips RA, Karbhari N, Hansen KD, Langmead B<sup>&dagger;</sup> , Leek JT<sup>&dagger;</sup> <br>
+Human splicing diversity and the extent of unannotated splice junctions across human RNA-seq samples on the Sequence Read Archive.  <br>
+Genome Biol. 2016 Dec 30;17(1):266. <br>
+[DOI](http://dx.doi.org/10.1186/s13059-016-1118-6)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28038678)
 
-<b>Jaffe AE</b><sup>&dagger;</sup> <br> 
-Postmortem human brain genomics in neuropsychiatric disorders - how far can we go?<br>
-Current Opinion in Neurobiology. 2015 Dec 10;36:107-111. <br> 
-[DOI](http://dx.doi.org/10.1016/j.conb.2015.11.002)
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/26685806)
-[PDF](pdfs/jaffe_currOpinion.pdf)
+Bharadwaj RA, <b>Jaffe AE</b>, Chen Q, Deep-Soboslay A, Goldman AL, Mighdoll MI, Cotoia JA, Brandtjen AC, Shin J, Hyde TM, Mattay VS, Weinberger DR, Kleinman JE<sup>&dagger;</sup> <br>
+Genetic risk mechanisms of posttraumatic stress disorder in the human brain. <br>
+J Neurosci Res. 2016 Oct 24.  <br>
+[DOI](http://dx.doi.org/10.1002/jnr.23957)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27775175)
+
+Montano C, Taub MA, <b>Jaffe AE</b>, Briem E, Feinberg JI, Trygvadottir R, Idrizi A, Runarsson A, Berndsen B, Gur RC, Moore TM, Perry RT, Fugman D, Sabunciyan S, Yolken RH, Hyde TM, Kleinman JE, Sobell JL, Pato CN, Pato MT, Go RC, Nimgaonkar V, Weinberger DR, Braff D, Gur RE, Fallin MD, Feinberg AP. <br>
+Association of DNA Methylation Differences With Schizophrenia in an Epigenome-Wide Association Study. <br>
+JAMA Psychiatry. 2016 May 1;73(5):506-14. 
+[DOI](http://dx.doi.org/10.1001/jamapsychiatry.2016.0144)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27074206)
+
+McFadden WC, <b>Jaffe AE</b>, Ye T, Paltán-Ortiz JD, Hyde TM, Kleinman JE. <br>
+Assessment of genetic risk for distribution of total interstitial white matter neurons in dorsolateral prefrontal cortex: role in schizophrenia. <br>
+Schizophr Res. 2016 Oct;176(2-3):141-3h <br>
+[DOI](http://dx.doi.org/10.1001/jamapsychiatry.2016.0144)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27237599)
+
+#### 2015
 
 <b>Jaffe AE</b>, Hyde  TM, Kleinman JE, Weinberger DR, Chenoweth JG, McKay R, Leek JT, Colantuoni C<sup>&dagger;</sup> <br>
 Practical Impacts of Genomic Data "Cleaning" on Biological Discovery. <br>
@@ -127,10 +180,12 @@ Collado-Torres L, Jaffe AE and Leek JT. <br>
 regionReport: Interactive reports for region-based analyses. <br>
 F1000 Research. 2015, 4:105 <br> 
 [DOI](http://dx.doi.org/10.12688/f1000research.6379.1)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27468350)
 
 Feinberg JI, Bakulski KM, <b>Jaffe AE</b>, Trygvadottir R, Brown SC, Goldman LR, Croen LA, Hertz-Picciotto I, Newschaffer CJ, Fallin MD, Feinberg AP<sup>&dagger;</sup><br>
 Paternal sperm DNA methylation associated with early signs of autism risk in an autism-enriched cohort.<br> 
 Int J Epidemiol. 2015 Apr 14 (Epub) <br>
+[DOI](http://dx.doi.org/10.1093/ije/dyv028)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/25878217)
 
 Bakulski KM<sup>&lowast;</sup>, Lee HJ<sup>&lowast;</sup>, Feinberg JI, Wells EM, Brown S, Herbstman JB, Witter FR, Halden RU, Caldwell K, Mortensen ME, <b>Jaffe AE</b>, Moye J, Caul.eld LE, Pan Y, Gold-man LR, Feinberg AP<sup>&dagger;</sup>, Fallin MD<sup>&dagger;</sup>. <br> 
@@ -275,16 +330,6 @@ Ganesh SK<sup>&dagger;</sup><sup>&lowast;</sup>, Zakai NA<sup>&lowast;</sup>, va
 Multiple loci influence erythrocyte phenotypes in the CHARGE consortium. Nature Genetics, 2009 Nov;41(11):1191-8. <br>
 [DOI](http://dx.doi.org/10.1038/ng.466)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/19862010 )
-
-### Preprints
-
-Collado-Torres L, <b>Jaffe AE</b>, Leek JT<sup>&dagger;</sup> <br>
-regionReport: Interactive reports for region-based analyses. <br>
-[f1000](http://f1000research.com/articles/4-105/v1)
-
-Nellore A, <b>Jaffe AE</b>, Fortin JP, Alquicira-Hernández J, Collado-Torres L, Wang S, Phillips RA, Karbhari N, Hansen KD, Langmead B<sup>&dagger;</sup> , Leek JT<sup>&dagger;</sup> <br>
-Human splicing diversity across the Sequence Read Archive <br>
-[bioRxiv](http://dx.doi.org/10.1101/038224)
 
 
 ### Other
