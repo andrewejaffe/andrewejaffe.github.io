@@ -17,7 +17,7 @@ We contribute to the [Bioconductor](http://www.bioconductor.org) project.
 
 [derfinder](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html): A package for performing differential expression analysis at base resolution.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/derfinder.html)
+[download stats](https://bioconductor.org/packages/stats/bioc/derfinder/)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/derfinder)
 |
@@ -28,7 +28,7 @@ We contribute to the [Bioconductor](http://www.bioconductor.org) project.
 
 [recount](http://www.bioconductor.org/packages/release/bioc/html/recount.html): Explore and download data from the recount project
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/recount.html)
+[download stats](https://bioconductor.org/packages/stats/bioc/recount)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/recount)
 |
@@ -40,7 +40,7 @@ We contribute to the [Bioconductor](http://www.bioconductor.org) project.
 [bumphunter](http://www.bioconductor.org/packages/release/bioc/html/bumphunter.html}{bumphunter}): A
 package implementing a general backend for the bumphunter approach. 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/bumphunter.html)
+[download stats](https://bioconductor.org/packages/stats/bioc/bumphunter)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/bumphunter)
 |
@@ -52,7 +52,7 @@ package implementing a general backend for the bumphunter approach.
 [minfi](http://www.bioconductor.org/packages/release/bioc/html/minfi.html): A package for analysing
 Illumina's 450k methylation microarray.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/minfi.html)
+[download stats](https://bioconductor.org/packages/stats/bioc/minfi)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/minfi)
 |
@@ -63,7 +63,7 @@ Illumina's 450k methylation microarray.
 
 [polyester](http://www.bioconductor.org/packages/release/bioc/html/polyester.html): A package for simulating RNA sequencing reads from differential expression experiments.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/polyester.html)
+[download stats](https://bioconductor.org/packages/stats/bioc/polyester)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/polyester)
 |
@@ -74,7 +74,7 @@ Illumina's 450k methylation microarray.
 
 [ballgown](http://www.bioconductor.org/packages/release/bioc/html/ballgown.html): A package for simulating RNA sequencing reads from differential expression experiments.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://bioconductor.org/packages/stats/bioc/ballgown.html)
+[download stats](http://bioconductor.org/packages/stats/bioc/ballgown)
 | 
 [build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/ballgown)
 |
@@ -87,10 +87,10 @@ Illumina's 450k methylation microarray.
 
 [FlowSorted.Blood.450k](http://bioconductor.org/packages/release/data/experiment/html/FlowSorted.Blood.450k.html): A package containing Illumina 450k DNA methylation data for flow sorted blood cells.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://www.bioconductor.org/packages/stats/data-experiment/FlowSorted.Blood.450k.html)
+[download stats](http://www.bioconductor.org/packages/stats/data-experiment/FlowSorted.Blood.450k)
 ]
 
 [FlowSorted.DLPFC.450k](http://bioconductor.org/packages/release/data/experiment/html/FlowSorted.DLPFC.450k.html): A package containing Illumina 450k DNA methylation data for flow sorted frontal cortex cells.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
-[download stats](http://www.bioconductor.org/packages/stats/data-experiment/FlowSorted.DLPFC.450k.html)
+[download stats](http://www.bioconductor.org/packages/stats/data-experiment/FlowSorted.DLPFC.450k)
 ]
