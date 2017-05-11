@@ -15,7 +15,7 @@ We contribute to the [Bioconductor](http://www.bioconductor.org) project.
 
 #### Contributor
 
-[derfinder](http://www.bioconductor.org/packages/release/bioc/html/polyester.html): A package for performing differential expression analysis at base resolution.
+[derfinder](http://www.bioconductor.org/packages/release/bioc/html/derfinder.html): A package for performing differential expression analysis at base resolution.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
 [download stats](http://bioconductor.org/packages/stats/bioc/derfinder.html)
 | 
@@ -24,6 +24,17 @@ We contribute to the [Bioconductor](http://www.bioconductor.org) project.
 [build release](http://bioconductor.org/checkResults/release/bioc-LATEST/derfinder)
 |
 [GitHub](https://github.com/lcolladotor/derfinder)
+]
+
+[recount](http://www.bioconductor.org/packages/release/bioc/html/recount.html): Explore and download data from the recount project
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
+[download stats](http://bioconductor.org/packages/stats/bioc/recount.html)
+| 
+[build devel](http://bioconductor.org/checkResults/devel/bioc-LATEST/recount)
+|
+[build release](http://bioconductor.org/checkResults/release/bioc-LATEST/recount)
+|
+[GitHub](https://github.com/lcolladotor/recount)
 ]
 
 [bumphunter](http://www.bioconductor.org/packages/release/bioc/html/bumphunter.html}{bumphunter}): A
