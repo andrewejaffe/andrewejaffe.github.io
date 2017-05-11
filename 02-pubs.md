@@ -14,16 +14,66 @@ permalink: "publications.html"
 
 ### Research Papers
 
+#### Preprints
+
+BDN Phan, Page SC, Campbell MN, Bohlen JF, Thaxton CL, Simon JM, Burke EE, Shin JH, Kennedy AJ, Sweatt JD, Philpot BD, <b>Jaffe AE</b><sup>&dagger;</sup>, Maher BJ<sup>&dagger;</sup><br>
+Defects of myelination are common pathophysiology in syndromic and idiopathic autism spectrum disorders <br>
+[bioRxiv](http://biorxiv.org/content/early/2017/04/18/128124)
+
+<b>Jaffe AE</b><sup>&dagger;</sup>, Straub RE, Shin JH, Tao R, Gao Y, Collado-Torres L, Kam-Thong T, Xi HS, Quan J, Chen Q, Colantuoni C, Ulrich B, Maher BJ, Deep-Soboslay A, The BrainSeq Consortium, Cross A, Brandon NJ, Leek JT, Hyde TM, Kleinman JE, Weinberger DR <sup>&dagger;</sup><br>
+Developmental And Genetic Regulation Of The Human Cortex Transcriptome In Schizophrenia <br>
+[bioRxiv](http://biorxiv.org/content/early/2017/04/05/124321)
+
+<b>Jaffe AE</b><sup>&dagger;</sup>, Tao R, Norris A, Kealhofer M,  Nellore A, Shin JH, Kim D, Hyde TM, Kleinman JE, Straub RE, Leek JT, Weinberger DR <br>
+A framework for RNA quality correction in differential expression analysis <br>
+[bioRxiv](http://www.biorxiv.org/content/early/2016/09/09/074245)
+
 #### 2017
 
-Leonardo Collado-Torres<sup>&lowast;</sup>, Abhinav Nellore<sup>&lowast;</sup>, Kai Kammers, Shannon E Ellis, Margaret A Taub, Kasper D Hansen, <b>Andrew E Jaffe<b><sup>&dagger;</sup>, Ben Langmead<sup>&dagger;</sup>, Jeffrey T Leek<sup>&dagger;</sup> <br>
-recount2: A large-scale resource of analysis-ready RNA-seq expression data <br>
-Nature Biotechnology, 2017, In Press. <br>
-[bioRxiv](http://biorxiv.org/content/early/2016/08/08/068478)
+Collado-Torres L<sup>&lowast;</sup>, Nellore A<sup>&lowast;</sup>, Kammers K, Ellis SE, Taub MA, Hansen KD, <b>Jaffe AE</b><sup>&dagger;</sup>, Langmead B<sup>&dagger;</sup>, Leek JT<sup>&dagger;</sup> <br>
+Reproducible RNA-seq analysis using recount2. <br>
+Nat Biotechnol. 2017 Apr 11;35(4):319-321.  <br>
+[DOI](http://dx.doi.org/10.1038/nbt.3838)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28398307)
+<span class='altmetric-embed' data-badge-type='4' data-doi="10.1038/nbt.3838"></span>
 
-Birnbaum R, <b>Jaffe AE</b>, Chen Q, Shin JH, BrainSeq Consortium, Kleinman JE, Hyde TM, Weinberger DR <sup>&dagger;</sup> <br>
+Collado-Torres L, Nellore A, Frazee AC, Wilks C, Love MI, Langmead B, Irizarry RA, Leek JT<sup>&dagger;</sup>,<b>Jaffe AE</b><sup>&dagger;</sup> <br>
+Flexible expressed region analysis for RNA-seq with derfinder. <br>
+Nucleic Acids Res. 2017 Jan 25;45(2):e9 <br>
+[NAR](http://nar.oxfordjournals.org/content/early/2016/09/29/nar.gkw852.full)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27694310)
+[PDF](pdfs/colladoTorres_derfinder.pdf)
+<span class='altmetric-embed' data-badge-type='4' data-doi="10.1093/nar/gkw852"></span>
+
+Birnbaum R, <b>Jaffe AE</b>, Chen Q, Shin JH, BrainSeq Consortium, Kleinman JE, Hyde TM, Weinberger DR<sup>&dagger;</sup> <br>
 Investigating the neuro-immunogenic architecture of schizophrenia <br>
-Molecular Psychiatry, 2017. In Press.
+Mol Psychiatry. 2017 May 9. <br>
+[DOI](http://dx.doi.org/10.1038/mp.2017.89)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28485405)
+
+Wright C, Shin JH, Rajpurohit A, Deep-Soboslay A, Collado-Torres L, Brandon NJ, Hyde TM, Kleinman JE, <b>Jaffe AE</b>, Cross AJ, Weinberger DR<sup>&dagger;</sup> <br>
+Altered expression of histamine signaling genes in autism spectrum disorder. <br>
+Transl Psychiatry. 2017 May 9;7(5):e1126. <br>
+[DOI](http://dx.doi.org/10.1038/tp.2017.87)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28485729)
+
+Tao R, Davis KN, Li C, Shin JH, Gao Y, <b>Jaffe AE</b>, Gondré-Lewis MC, Weinberger DR, Kleinman JE, Hyde TM<sup>&dagger;</sup> <br>
+GAD1 alternative transcripts and DNA methylation in human prefrontal cortex and hippocampus in brain development, schizophrenia<br>
+Mol Psychiatry. 2017 May 9. <br>
+[DOI](http://dx.doi.org/10.1038/mp.2017.105)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28485403)
+
+McConnell MJ<sup>&dagger;</sup>, Moran JV<sup>&dagger;</sup>, Abyzov A, Akbarian S, Bae T, Cortes-Ciriano I, Erwin JA, Fasching L, Flasch DA, Freed D, Ganz J, <b>Jaffe AE</b>, Kwan KY, Kwon M, Lodato MA, Mills RE, Paquola ACM, Rodin RE, Rosenbluh C, Sestan N, Sherman MA, Shin JH, Song S, Straub RE, Thorpe J, Weinberger DR, Urban AE, Zhou B, Gage FH, Lehner T, Senthil G, Walsh CA, Chess A, Courchesne E, Gleeson JG, Kidd JM, Park PJ, Pevsner J, Vaccarino FM; Brain Somatic Mosaicism Network<br>
+Intersection of diverse neuronal genomes and neuropsychiatric disease: The Brain Somatic Mosaicism Network <br>
+Science. 2017 Apr 28;356(6336) <br>
+[DOI](http://dx.doi.org/10.1126/science.aal1641)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28450582)
+
+Page SC, Hamersky GR, Gallo RA, Rannals MD, Calcaterra NE, Campbell MN, Mayfield B, Briley A, Phan BN, <b>Jaffe AE</b>, Maher BJ<sup>&dagger;</sup> <br>
+The schizophrenia- and autism-associated gene, transcription factor 4 regulates the columnar distribution of layer 2/3 prefrontal pyramidal neurons in an activity-dependent manner<br>
+Mol Psychiatry. 2017 Mar 14. <br>
+[DOI](http://dx.doi.org/10.1038/mp.2017.37)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28289282)
 
 Zheng SC, Beck S, <b>Jaffe AE</b>, Koestler DC, Hansen KD, Houseman AE, Irizarry RA, Teschendorff AE <sup>&dagger;</sup> <br>
 Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses. <br>
@@ -32,13 +82,6 @@ Nat Methods. 2017 Feb 28;14(3):216-217. <br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28245219)
 
 #### 2016
-
-Collado-Torres L, Nellore A, Frazee AC, Wilks C, Love MI, Langmead B, Irizarry RA, Leek JT<sup>&dagger;</sup>,<b>Jaffe AE</b><sup>&dagger;</sup> <br>
-Flexible expressed region analysis for RNA-seq with derfinder. <br>
-[NAR](http://nar.oxfordjournals.org/content/early/2016/09/29/nar.gkw852.full)
-[PMID](http://www.ncbi.nlm.nih.gov/pubmed/27694310)
-[PDF](pdfs/colladoTorres_derfinder.pdf)
-<span class='altmetric-embed' data-badge-type='4' data-doi="10.1093/nar/gkw852"></span>
 
 <b>Jaffe AE</b><sup>&dagger;</sup>, Gao Y, Deep-Soboslay A, Tao R, Hyde TM, Weinberger DR, Kleinman JE<br>
 Mapping DNA methylation across development, genotype, and schizophrenia in the human frontal cortex.<br>
