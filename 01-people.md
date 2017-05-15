@@ -53,8 +53,8 @@ permalink: "people.html"
 
 <img src="media/people/badoi.jpg" alt="Badoi Phan" style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Badoi Phan<br>
-&nbsp;&nbsp;&nbsp;Research Assistant<br>
-&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
+&nbsp;&nbsp;&nbsp;MD/PhD Student<br>
+&nbsp;&nbsp;&nbsp;University of Pittsburgh/Carnegie Mellon University<br>
 <br><br><br><br><br><br>
 
 <img src="media/people/nikolay.jpg" alt="Nikolay Ivanov" style="width: 125px;" align="left"/>
