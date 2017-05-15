@@ -27,21 +27,14 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.biostat.jhsph.edu/~lcollado/#.VO-HmvnF98E)<br>
 <br><br><br><br><br><br>
 
-
 <img src="media/people/emily.jpg" alt="Emily Burke" style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Emily Burke<br>
 &nbsp;&nbsp;&nbsp;Research Associate<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 <br><br><br><br><br><br><br><br>
 
-<img src="media/people/badoi.jpg" alt="Badoi Phan" style="width: 125px;" align="left"/>
-&nbsp;&nbsp;&nbsp;Badoi Phan<br>
-&nbsp;&nbsp;&nbsp;Research Assistant<br>
-&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br>
-
-<img src="media/people/steve.jpg" alt="Steve Semick" style="width: 125px;" align="left"/>
-&nbsp;&nbsp;&nbsp;Stehpen Semick<br>
+<img src="media/people/steve.jpg" alt="Stephen Semick" style="width: 125px;" align="left"/>
+&nbsp;&nbsp;&nbsp;Stephen Semick<br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 <br><br><br><br><br><br><br><br><br>
@@ -56,6 +49,13 @@ permalink: "people.html"
 <br><br><br><br><br><br>
 
 ## Alumni
+
+
+<img src="media/people/badoi.jpg" alt="Badoi Phan" style="width: 125px;" align="left"/>
+&nbsp;&nbsp;&nbsp;Badoi Phan<br>
+&nbsp;&nbsp;&nbsp;Research Assistant<br>
+&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
+<br><br><br><br><br><br>
 
 <img src="media/people/nikolay.jpg" alt="Nikolay Ivanov" style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Nikolay Ivanov<br>
