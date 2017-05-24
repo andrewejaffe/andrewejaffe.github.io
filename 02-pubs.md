@@ -24,11 +24,12 @@ Defects of myelination are common pathophysiology in syndromic and idiopathic au
 Developmental And Genetic Regulation Of The Human Cortex Transcriptome In Schizophrenia <br>
 [bioRxiv](http://biorxiv.org/content/early/2017/04/05/124321)
 
+#### 2017
+
 <b>Jaffe AE</b><sup>&dagger;</sup>, Tao R, Norris A, Kealhofer M,  Nellore A, Shin JH, Kim D, Hyde TM, Kleinman JE, Straub RE, Leek JT, Weinberger DR <br>
 A framework for RNA quality correction in differential expression analysis <br>
-[bioRxiv](http://www.biorxiv.org/content/early/2016/09/09/074245)
-
-#### 2017
+PNAS. 2017, In Press
+Available on [bioRxiv](http://www.biorxiv.org/content/early/2016/09/09/074245)
 
 Collado-Torres L<sup>&lowast;</sup>, Nellore A<sup>&lowast;</sup>, Kammers K, Ellis SE, Taub MA, Hansen KD, <b>Jaffe AE</b><sup>&dagger;</sup>, Langmead B<sup>&dagger;</sup>, Leek JT<sup>&dagger;</sup> <br>
 Reproducible RNA-seq analysis using recount2. <br>
