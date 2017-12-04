@@ -28,8 +28,9 @@ Developmental And Genetic Regulation Of The Human Cortex Transcriptome In Schizo
 
 <b>Jaffe AE</b><sup>&dagger;</sup>, Tao R, Norris A, Kealhofer M,  Nellore A, Shin JH, Kim D, Hyde TM, Kleinman JE, Straub RE, Leek JT, Weinberger DR <br>
 A framework for RNA quality correction in differential expression analysis <br>
-PNAS. 2017, In Press
-Available on [bioRxiv](http://www.biorxiv.org/content/early/2016/09/09/074245)
+Proc Natl Acad Sci U S A. 2017 Jul 3;114(27):7130-7135. <br>
+[DOI](http://dx.doi.org/10.1073/pnas.1617384114)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28634288)
 
 Collado-Torres L<sup>&lowast;</sup>, Nellore A<sup>&lowast;</sup>, Kammers K, Ellis SE, Taub MA, Hansen KD, <b>Jaffe AE</b><sup>&dagger;</sup>, Langmead B<sup>&dagger;</sup>, Leek JT<sup>&dagger;</sup> <br>
 Reproducible RNA-seq analysis using recount2. <br>
@@ -45,6 +46,12 @@ Nucleic Acids Res. 2017 Jan 25;45(2):e9 <br>
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/27694310)
 [PDF](pdfs/colladoTorres_derfinder.pdf)
 <span class='altmetric-embed' data-badge-type='4' data-doi="10.1093/nar/gkw852"></span>
+
+Collado-Torres L, Nellore A and Jaffe AE. <br>
+recount workflow: Accessing over 70,000 human RNA-seq samples with Bioconductor <br>
+F1000Research 2017, 6:1558  <br>
+[DOI](http://dx.doi.org/10.12688/f1000research.12223.1)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/29043067)
 
 Birnbaum R, <b>Jaffe AE</b>, Chen Q, Shin JH, BrainSeq Consortium, Kleinman JE, Hyde TM, Weinberger DR<sup>&dagger;</sup> <br>
 Investigating the neuro-immunogenic architecture of schizophrenia <br>
@@ -81,6 +88,12 @@ Correcting for cell-type heterogeneity in epigenome-wide association studies: re
 Nat Methods. 2017 Feb 28;14(3):216-217. <br>
 [DOI](http://dx.doi.org/10.1038/nmeth.4187)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28245219)
+
+Kozlenkov A, Jaffe AE, Timashpolsky A, Apontes P, Rudchenko S, Barbu M, Byne W, Hurd YL, Horvath S, Dracheva S <br>
+DNA Methylation Profiling of Human Prefrontal Cortex Neurons in Heroin Users Shows Significant Difference between Genomic Contexts of Hyper- and Hypomethylation and a Younger Epigenetic Age. <br>
+Genes (Basel). 2017 May 30;8(6). pii: E152. <br>
+[DOI](http://dx.doi.org/10.3390/genes8060152)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/28556790)
 
 #### 2016
 
