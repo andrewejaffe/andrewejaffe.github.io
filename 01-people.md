@@ -39,7 +39,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 <br><br><br><br><br><br><br><br><br>
 
-## Postdoc Fellows
+## Postdoctoral Fellows
 
 <img src="media/people/amanda.jpg" alt="Amanda Price, Ph.D." style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Amanda Price, Ph.D. <br>
