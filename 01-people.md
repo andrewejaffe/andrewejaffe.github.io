@@ -33,29 +33,42 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 <br><br><br><br><br><br><br><br>
 
-<img src="media/people/steve.jpg" alt="Stephen Semick, B.S." style="width: 125px;" align="left"/>
-&nbsp;&nbsp;&nbsp;Stephen Semick<br>
-&nbsp;&nbsp;&nbsp;Research Assistant<br>
-&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br><br><br><br>
-
 <img src="media/people/maddie.jpg" alt="Madhavi Tippani, M.S." style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Madhavi Tippani<br>
 &nbsp;&nbsp;&nbsp;Research Associate<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 <br><br><br><br><br><br><br><br><br>
 
+## Postdoc Fellows
+
+<img src="media/people/amanda.jpg" alt="Amanda Price, Ph.D." style="width: 125px;" align="left"/>
+&nbsp;&nbsp;&nbsp;Amanda Price, Ph.D. <br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
+<br><br><br><br><br><br>
+
 ## PhD Students
 
-<img src="media/people/amanda.jpg" alt="Amanda Price, B.S." style="width: 125px;" align="left"/>
-&nbsp;&nbsp;&nbsp;Amanda Price<br>
+&nbsp;&nbsp;&nbsp;Matt Nguyen<br>
 &nbsp;&nbsp;&nbsp;PhD Student<br>
 &nbsp;&nbsp;&nbsp;Human Genetics Program<br>
 &nbsp;&nbsp;&nbsp;[Institute of Genetic Medicine](http://igm.jhmi.edu/)<br>
 <br><br><br><br><br><br>
 
+&nbsp;&nbsp;&nbsp;Brianna Berry<br>
+&nbsp;&nbsp;&nbsp;PhD Student<br>
+&nbsp;&nbsp;&nbsp;BCMB Program<br>
+&nbsp;&nbsp;&nbsp;[John Hopkins School of Medicine](http://igm.jhmi.edu/)<br>
+&nbsp;&nbsp;&nbsp;Co-advisor: [Keri Martinowich](http://igm.jhmi.edu/)<br>
+<br><br><br><br><br><br>
+
 ## Alumni
 
+<img src="media/people/steve.jpg" alt="Stephen Semick, B.S." style="width: 125px;" align="left"/>
+&nbsp;&nbsp;&nbsp;Stephen Semick<br>
+&nbsp;&nbsp;&nbsp;Medical Student<br>
+&nbsp;&nbsp;&nbsp;University of Maryland<br>
+<br><br><br><br><br><br>
 
 <img src="media/people/badoi.jpg" alt="Badoi Phan, B.S." style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Badoi Phan<br>
