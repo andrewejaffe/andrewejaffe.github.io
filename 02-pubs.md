@@ -20,41 +20,61 @@ BDN Phan, Page SC, Campbell MN, Bohlen JF, Thaxton CL, Simon JM, Burke EE, Shin 
 Defects of myelination are common pathophysiology in syndromic and idiopathic autism spectrum disorders <br>
 [bioRxiv](http://biorxiv.org/content/early/2017/04/18/128124)
 
-Maynard KR, Hobbs JW, Phan BDNΨ, Gupta A, Rajpurohit A, Williams C, Rajpurohit A, Shin JH, <b>Jaffe AE</b>, Martinowich K<br>
+Burke EE*, Chenoweth JG*, Shin JH, Collado-Torres L, Kim SK, Micali N, Wang Y, Straub RE, Hoeppner DJ, Chen H-Y, Lescure A, Shibbani K, Hamersky GR, Phan BN, Ulrich WS, Valencia C, Jaishankar A, Price AJ, Rajpurohit A, Semick SA, Bürli R, Barrow JC, Hiler DJ, Page SC, Martinowich K, Hyde TM, Kleinman JE, Berman KF, Apud JA, Cross AJ, Brandon NJ, Weinberger DR, Maher BJ, McKay RD<sup>&dagger;</sup>, <b>Jaffe AE</b><sup>&dagger;</sup><br>
+Dissecting transcriptomic signatures of neuronal differentiation and maturation using iPSCs <br>
+[bioRxiv](https://www.biorxiv.org/content/early/2018/07/31/380758)
+
+Maynard KR, Hobbs JW, Phan BDN, Gupta A, Rajpurohit A, Williams C, Rajpurohit A, Shin JH, <b>Jaffe AE</b>, Martinowich K<br>
 BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior.<br>
-[bioRxiv 250332]
+[bioRxiv](https://www.biorxiv.org/content/early/2018/01/19/250332)
 
 Parsana P, Ruberman C, <b>Jaffe AE</b>, Schatz MC, Battle A, Leek JT<br>
 Addressing confounding artifacts in reconstruction of gene co-expression networks.<br>
-[bioRxiv: 202903]
+[bioRxiv](https://www.biorxiv.org/content/early/2017/10/13/202903)
 
 Punzi G, Ursini G, Viscanti G, Radulescu E, Shin JH, Quarto T,  Catanesi R, Blasi G, <b>Jaffe AE</b>, Deep-Soboslay A, Hyde TM,  Kleinman JE, Bertolino A, Weinberger DR<br>
 Association of a lincRNA postmortem with suicide by violent means and in vivo with aggressive phenotypes<br>
-[bioRxiv: 257188]
+[bioRxiv](https://www.biorxiv.org/content/early/2018/01/31/257188)
 
 Pergola G, Carlo PD, Jaffe AE, Papalino M, Chen Q, Hyde TM, Kleinman JE, Shin JH, Rampino A, Blasi G, Weinberger DR, Bertolino A<br>
 Prefrontal co-expression of schizophrenia risk genes is associated with treatment response in patients<br>
-[bioRxiv: 323428]
+[bioRxiv](https://www.biorxiv.org/content/early/2018/05/16/323428)
+
+Kuri-Magaña H, Collado-Torres L, Jaffe AE, Valdovinos-Torres H, Ovilla-Muñoz M, Téllez-Sosa JM, Bonifaz-Alfonzo LC, Martínez-Barnetche J<br>
+Non-coding Class Switch Recombination-related transcription in human normal and pathological immune responses<br>
+[bioRxiv](https://www.biorxiv.org/content/early/2018/08/03/384172)
 
 #### 2018
 
 Semick SA, Collado-Torres L, Markunas CA, Shin JH, Deep-Soboslay A, Tao R, Bierut LJ, Maher BS, Johnson EO, Hyde TM, Weinberger DR, Hancock DB, Kleinman JE<sup>&dagger;</sup>, <b>Jaffe AE</b><sup>&dagger;</sup><br>
 Developmental effects of maternal smoking during pregnancy on the human frontal cortex transcriptome<br>
-Molecular Psychiatry, In Press.
+Molecular Psychiatry. 2018 August 21.
+[DOI](http://dx.doi.org/10.1038/s41380-018-0223-1)
 
 <b>Jaffe AE</b><sup>&dagger;</sup>, Straub RE, Shin JH, Tao R, Gao Y, Collado-Torres LΨ, Kam-Thong T, Xi HS, Quan J, Chen Q, Colantuoni C, Ulrich B, Maher BJ, Deep-Soboslay A, The BrainSeq Consortium, Cross A, Brandon NJ, Leek JT, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup><br>
 Developmental and genetic regulation of the human cortex transcriptome illuminate schizophrenia pathogenesis<br>
-Nature Neuroscience, In Press.
+Nat Neurosci. 2018 Aug;21(8):1117-1125. 
+[DOI](http://dx.doi.org/10.1038/s41593-018-0197-y)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30050107)
 
 Giambartolomei C, Liu JZ, Zhang W, Hauberg M, Shi H, Boocock J, Pickrell J, <b>Jaffe AE</b>, CommonMind Consortium, Pasaniuc P, Roussos P<br>
 A Bayesian Framework for Multiple Trait Colocalization from Summary Association Statistics<br>
 Bioinformatics. 2018 Mar 19. <br>
+[DOI](http://dx.doi.org/10.1093/bioinformatics/bty147)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29579179)
 
 Ursini G, Punzi G, Chen Q, Marenco S, Robinson J, Porcelli A, Hamilton E, Mitjans M, Maddalena G, Begemann M, Seidel J, Yanamori H, <b>Jaffe AE</b>, Berman KF, Egan MF, Straub RE, Colantuoni C, Blasi G, Hashimoto R, Rujescu D, Ehrenreich H, Bertolino A, Weinberger DR<br>
 Convergence of placenta biology and genetic risk for schizophrenia<br>
 Nat Med. 2018 Jun;24(6):792-801. 
+[DOI](http://dx.doi.org/10.1038/s41591-018-0021-y)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29808008)
+
+Ellis SE, Collado-Torres L, <b>Jaffe A<b>, Leek JT<br>
+Improving the value of public RNA-seq expression data by phenotype prediction<br>
+Nucleic Acids Res. 2018;46(9):e54.
+[DOI](http://dx.doi.org/10.1093/nar/gky102)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/29514223)
+
 
 #### 2017
 
