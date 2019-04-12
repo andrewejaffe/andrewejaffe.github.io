@@ -16,6 +16,14 @@ permalink: "publications.html"
 
 #### Preprints
 
+Price AJ*, Collado-Torres L*, Ivanov NA, Xia W, Burke EE, Shin JH, Tao R, Ma L, Jia Y, Hyde TM, Kleinman JE, Weinberger DR, <b>Jaffe AE</b><sup>&dagger;</sup><br>
+Divergent neuronal DNA methylation patterns across human cortical development: Critical periods and a unique role of CpH methylation<br>
+[bioRxiv](https://www.biorxiv.org/content/10.1101/428391v1)
+
+Collado-Torres L, Burke EE, Peterson A, Shin JH, Straub RE, Rajpurohi A, Semick SA, Ulrich WS, Valencia C, Tao R, Deep-Soboslay A, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup>, <b>Jaffe AE</b><sup>&dagger;</sup><br>
+Regional heterogeneity in gene expression, regulation and coherence in hippocampus and dorsolateral prefrontal cortex across development and in schizophrenia<br>
+[bioRxiv](https://www.biorxiv.org/content/10.1101/426213v1)
+
 BDN Phan, Page SC, Campbell MN, Bohlen JF, Thaxton CL, Simon JM, Burke EE, Shin JH, Kennedy AJ, Sweatt JD, Philpot BD, <b>Jaffe AE</b><sup>&dagger;</sup>, Maher BJ<sup>&dagger;</sup><br>
 Defects of myelination are common pathophysiology in syndromic and idiopathic autism spectrum disorders <br>
 [bioRxiv](http://biorxiv.org/content/early/2017/04/18/128124)
@@ -24,32 +32,82 @@ Burke EE*, Chenoweth JG*, Shin JH, Collado-Torres L, Kim SK, Micali N, Wang Y, S
 Dissecting transcriptomic signatures of neuronal differentiation and maturation using iPSCs <br>
 [bioRxiv](https://www.biorxiv.org/content/early/2018/07/31/380758)
 
-Maynard KR, Hobbs JW, Phan BDN, Gupta A, Rajpurohit A, Williams C, Rajpurohit A, Shin JH, <b>Jaffe AE</b>, Martinowich K<br>
-BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior.<br>
-[bioRxiv](https://www.biorxiv.org/content/early/2018/01/19/250332)
-
-Parsana P, Ruberman C, <b>Jaffe AE</b>, Schatz MC, Battle A, Leek JT<br>
+Parsana P*, Ruberman C*, <b>Jaffe AE</b>, Schatz MC, Battle A, Leek JT<br>
 Addressing confounding artifacts in reconstruction of gene co-expression networks.<br>
 [bioRxiv](https://www.biorxiv.org/content/early/2017/10/13/202903)
 
-Punzi G, Ursini G, Viscanti G, Radulescu E, Shin JH, Quarto T,  Catanesi R, Blasi G, <b>Jaffe AE</b>, Deep-Soboslay A, Hyde TM,  Kleinman JE, Bertolino A, Weinberger DR<br>
-Association of a lincRNA postmortem with suicide by violent means and in vivo with aggressive phenotypes<br>
-[bioRxiv](https://www.biorxiv.org/content/early/2018/01/31/257188)
+Han S, Lin Y, Wang M, Goes FS, Tan K, Zandi P, Hyde T, Weinberger DR, Potash JB, Kleinman JE, Jaffe AE<br>
+Integrating brain methylome with GWAS for psychiatric risk gene discovery<br>
+[bioRxiv](https://www.biorxiv.org/content/10.1101/440206v2)
+
+#### 2019
+
+Semick SA*, Bharadwaj RA*, Collado-Torres L, Tao R, Shin JH, Deep-Soboslay A, Weiss J, Weinberger DR, Hyde TM, Kleinman JE <b>Jaffe AE</b><sup>&dagger;</sup>, Mattay VS<sup>&dagger;</sup><br>
+Integrated DNA methylation and gene expression profiling across multiple brain regions implicate novel genes in Alzheimer's disease. 
+Acta Neuropathol. 2019 Apr;137(4):557-569.<br>
+[DOI](http://dx.doi.org/10.1007/s00401-019-01966-5)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30712078)
 
 Pergola G, Carlo PD, Jaffe AE, Papalino M, Chen Q, Hyde TM, Kleinman JE, Shin JH, Rampino A, Blasi G, Weinberger DR, Bertolino A<br>
 Prefrontal co-expression of schizophrenia risk genes is associated with treatment response in patients<br>
-[bioRxiv](https://www.biorxiv.org/content/early/2018/05/16/323428)
+Biological Psychiatry, In Press. 2019
+[DOI](http://doi.org/10.1016/j.biopsych.2019.03.981)
 
-Kuri-Magaña H, Collado-Torres L, Jaffe AE, Valdovinos-Torres H, Ovilla-Muñoz M, Téllez-Sosa JM, Bonifaz-Alfonzo LC, Martínez-Barnetche J<br>
-Non-coding Class Switch Recombination-related transcription in human normal and pathological immune responses<br>
-[bioRxiv](https://www.biorxiv.org/content/early/2018/08/03/384172)
+Punzi G, Ursini G, Viscanti G, Radulescu E, Shin JH, Quarto T,  Catanesi R, Blasi G, <b>Jaffe AE</b>, Deep-Soboslay A, Hyde TM,  Kleinman JE, Bertolino A, Weinberger DR<br>
+Association of a lincRNA postmortem with suicide by violent means and in vivo with aggressive phenotypes<br>
+Biol Psychiatry. 2019 Mar 1;85(5):417-424 <br>
+[DOI](http://doi.org/10.1016/j.biopsych.2018.11.002)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30600091)
+
+Ma L*, Semick SA*, Chen Q, Li C, Tao R, Price AJ, Shin JH, Jia Y, BrainSeq Consortium, Brandon NJ, Cross AJ, Hyde TM, Kleinman JE, <b>Jaffe AE</b>, Weinberger DR, Straub RE<br>
+Schizophrenia risk variants influence multiple classes of transcripts of sorting nexin 19 (SNX19)<br>
+Mol Psychiatry. 2019 Jan 11<br>
+[DOI](http://dx.doi.org/10.1038/s41380-018-0293-0)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30635639)
+
+Wolf RM, <b>Jaffe AE</b>, Steele KE, Schweitzer MA, Magnuson TH, Wolfe A, Wong GW<br>
+Cytokine, chemokine and cytokine receptor changes are associated with metabolic improvements after bariatric surgery<br>
+J Clin Endocrinol Metab. 2019 Mar 1;104(3):947-956
+[DOI](http://dx.doi.org/10.1210/jc.2018-02245)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30544212)
 
 #### 2018
 
+Wang D, Liu S, Warrell J, Won H, Shi X, Navarro FCP, Clarke D, Gu M, Emani P, Yang YT, Xu M, Gandal MJ, Lou S, Zhang J, Park JJ, Yan C, Rhie SK, Manakongtreecheep K, Zhou H, Nathan A, Peters M, Mattei E, Fitzgerald D, Brunetti T, Moore J, Jiang Y, Girdhar K, Hoffman GE, Kalayci S, Gümüş ZH, Crawford GE; PsychENCODE Consortium, Roussos P, Akbarian S, <b>Jaffe AE</b>, White KP, Weng Z, Sestan N, Geschwind DH, Knowles JA, Gerstein MB<br>
+Comprehensive functional genomic resource and integrative model for the human brain<br>
+Science. 2018 Dec 14;362(6420)<br>
+[DOI](http://dx.doi.org/10.1126/science.aat8464)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30545857)
+
+Gandal MJ, Zhang P, Hadjimichael E, Walker RL, Chen C, Liu S, Won H, van Bakel H, Varghese M, Wang Y, Shieh AW, Haney J, Parhami S, Belmont J, Kim M, Moran Losada P, Khan Z, Mleczko J, Xia Y, Dai R, Wang D, Yang YT, Xu M, Fish K, Hof PR, Warrell J, Fitzgerald D, White K, Jaffe AE, PsychENCODE Consortium, Peters MA, Gerstein M, Liu C, Iakoucheva LM, Pinto D, Geschwind DH<br>
+Transcriptome-wide isoform-level dysregulation in ASD, schizophrenia, and bipolar disorder<br>
+Science. 2018 Dec 14;362(6420)<br>
+[DOI](http://dx.doi.org/10.1126/science.aat8127)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30545856)
+
 Semick SA, Collado-Torres L, Markunas CA, Shin JH, Deep-Soboslay A, Tao R, Bierut LJ, Maher BS, Johnson EO, Hyde TM, Weinberger DR, Hancock DB, Kleinman JE<sup>&dagger;</sup>, <b>Jaffe AE</b><sup>&dagger;</sup><br>
-Developmental effects of maternal smoking during pregnancy on the human frontal cortex transcriptome<br>
 Molecular Psychiatry. 2018 August 21.
+Developmental effects of maternal smoking during pregnancy on the human frontal cortex transcriptome<br>
 [DOI](http://dx.doi.org/10.1038/s41380-018-0223-1)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30131587)
+
+Kuri-Magaña H, Collado-Torres L, <b>Jaffe AE</b>, Valdovinos-Torres H, Ovilla-Muñoz M, Téllez-Sosa JM, Bonifaz-Alfonzo LC, Martínez-Barnetche J<br>
+Non-coding Class Switch Recombination-related transcription in human normal and pathological immune responses<br>
+Front Immunol. 2018 Nov 21;9:2679 <br>
+[DOI](http://dx.doi.org/10.3389/fimmu.2018.02679)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30519242)
+
+Maynard KR, Hobbs JW, Phan BDN, Gupta A, Rajpurohit A, Williams C, Rajpurohit A, Shin JH, <b>Jaffe AE</b>, Martinowich K<br>
+BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior<br>
+Elife. 2018 Sep 7;7. pii: e33676<br>
+[DOI](http://dx.doi.org/10.7554/eLife.33676)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30192229)
+
+Radulescu E, Jaffe AE, Straub RE, Chen Q, Shin JH, Hyde TM, Kleinman JE, Weinberger DR<br>
+Identification and prioritization of gene sets associated with schizophrenia risk by co-expression network analysis in human brain<br>
+Mol Psychiatry. 2018 Nov 26<br>
+[DOI](http://dx.doi.org/10.1038/s41380-018-0304-1)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30478419)
 
 <b>Jaffe AE</b><sup>&dagger;</sup>, Straub RE, Shin JH, Tao R, Gao Y, Collado-Torres LΨ, Kam-Thong T, Xi HS, Quan J, Chen Q, Colantuoni C, Ulrich B, Maher BJ, Deep-Soboslay A, The BrainSeq Consortium, Cross A, Brandon NJ, Leek JT, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup><br>
 Developmental and genetic regulation of the human cortex transcriptome illuminate schizophrenia pathogenesis<br>
@@ -75,6 +133,11 @@ Nucleic Acids Res. 2018;46(9):e54.
 [DOI](http://dx.doi.org/10.1093/nar/gky102)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29514223)
 
+Boks MP, Houtepen LC, Xu Z, He Y, Ursini G, Maihofer AX, Rajarajan P, Yu Q, Xu H, Wu Y, Wang S, Shi JP, Hulshoff Pol HE, Strengman E, Rutten BPF, <b>Jaffe AE</b>, Kleinman JE, Baker DG, Hol EM, Akbarian S, Nievergelt CM, De Witte LD, Vinkers CH, Weinberger DR, Yu J, Kahn RS<br>
+Genetic vulnerability to DUSP22 promoter hypermethylation is involved in the relation between in utero famine exposure and schizophrenia<br>
+NPJ Schizophr. 2018 Aug 21;4(1):16<br>
+[DOI](http://dx.doi.org/10.1038/s41537-018-0058-4)
+[PMID](http://www.ncbi.nlm.nih.gov/pubmed/30131491)
 
 #### 2017
 
