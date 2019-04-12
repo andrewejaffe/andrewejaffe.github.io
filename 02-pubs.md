@@ -33,7 +33,7 @@ Dissecting transcriptomic signatures of neuronal differentiation and maturation 
 [bioRxiv](https://www.biorxiv.org/content/early/2018/07/31/380758)
 
 Parsana P\*, Ruberman C\*, <b>Jaffe AE</b>, Schatz MC, Battle A, Leek JT<br>
-Addressing confounding artifacts in reconstruction of gene co-expression networks.<br>
+Addressing confounding artifacts in reconstruction of gene co-expression networks<br>
 [bioRxiv](https://www.biorxiv.org/content/early/2017/10/13/202903)
 
 Han S<sup>&dagger;</sup>, Lin Y, Wang M, Goes FS, Tan K, Zandi P, Hyde T, Weinberger DR, Potash JB, Kleinman JE, <b>Jaffe AE</b><br>
@@ -43,14 +43,14 @@ Integrating brain methylome with GWAS for psychiatric risk gene discovery<br>
 #### 2019
 
 Semick SA\*, Bharadwaj RA\*, Collado-Torres L, Tao R, Shin JH, Deep-Soboslay A, Weiss J, Weinberger DR, Hyde TM, Kleinman JE <b>Jaffe AE</b><sup>&dagger;</sup>, Mattay VS<sup>&dagger;</sup><br>
-Integrated DNA methylation and gene expression profiling across multiple brain regions implicate novel genes in Alzheimer's disease. 
-Acta Neuropathol. 2019 Apr;137(4):557-569.<br>
+Integrated DNA methylation and gene expression profiling across multiple brain regions implicate novel genes in Alzheimer's disease<br>
+Acta Neuropathol. 2019 Apr;137(4):557-569<br>
 [DOI](http://dx.doi.org/10.1007/s00401-019-01966-5)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30712078)
 
 Pergola G, Carlo PD, <b>Jaffe AE</b>, Papalino M, Chen Q, Hyde TM, Kleinman JE, Shin JH, Rampino A, Blasi G, Weinberger DR, Bertolino A<br>
 Prefrontal co-expression of schizophrenia risk genes is associated with treatment response in patients<br>
-Biological Psychiatry, In Press. 2019
+Biological Psychiatry, In Press. 2019<br>
 [DOI](http://doi.org/10.1016/j.biopsych.2019.03.981)
 
 Punzi G, Ursini G, Viscanti G, Radulescu E, Shin JH, Quarto T,  Catanesi R, Blasi G, <b>Jaffe AE</b>, Deep-Soboslay A, Hyde TM,  Kleinman JE, Bertolino A, Weinberger DR<br>
@@ -93,7 +93,7 @@ Molecular Psychiatry. 2018 August 21<br>
 
 Kuri-Magaña H, Collado-Torres L, <b>Jaffe AE</b>, Valdovinos-Torres H, Ovilla-Muñoz M, Téllez-Sosa JM, Bonifaz-Alfonzo LC, Martínez-Barnetche J<br>
 Non-coding Class Switch Recombination-related transcription in human normal and pathological immune responses<br>
-Front Immunol. 2018 Nov 21;9:2679 <br>
+Front Immunol. 2018 Nov 21;9:2679<br>
 [DOI](http://dx.doi.org/10.3389/fimmu.2018.02679)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30519242)
 
@@ -111,19 +111,19 @@ Mol Psychiatry. 2018 Nov 26<br>
 
 <b>Jaffe AE</b><sup>&dagger;</sup>, Straub RE, Shin JH, Tao R, Gao Y, Collado-Torres LΨ, Kam-Thong T, Xi HS, Quan J, Chen Q, Colantuoni C, Ulrich B, Maher BJ, Deep-Soboslay A, The BrainSeq Consortium, Cross A, Brandon NJ, Leek JT, Hyde TM, Kleinman JE, Weinberger DR<sup>&dagger;</sup><br>
 Developmental and genetic regulation of the human cortex transcriptome illuminate schizophrenia pathogenesis<br>
-Nat Neurosci. 2018 Aug;21(8):1117-1125. 
+Nat Neurosci. 2018 Aug;21(8):1117-1125<br>
 [DOI](http://dx.doi.org/10.1038/s41593-018-0197-y)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30050107)
 
 Giambartolomei C, Liu JZ, Zhang W, Hauberg M, Shi H, Boocock J, Pickrell J, <b>Jaffe AE</b>, CommonMind Consortium, Pasaniuc P, Roussos P<br>
 A Bayesian Framework for Multiple Trait Colocalization from Summary Association Statistics<br>
-Bioinformatics. 2018 Mar 19. <br>
+Bioinformatics. 2018 Mar 19<br>
 [DOI](http://dx.doi.org/10.1093/bioinformatics/bty147)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29579179)
 
 Ursini G, Punzi G, Chen Q, Marenco S, Robinson J, Porcelli A, Hamilton E, Mitjans M, Maddalena G, Begemann M, Seidel J, Yanamori H, <b>Jaffe AE</b>, Berman KF, Egan MF, Straub RE, Colantuoni C, Blasi G, Hashimoto R, Rujescu D, Ehrenreich H, Bertolino A, Weinberger DR<br>
 Convergence of placenta biology and genetic risk for schizophrenia<br>
-Nat Med. 2018 Jun;24(6):792-801. 
+Nat Med. 2018 Jun;24(6):792-801<br>
 [DOI](http://dx.doi.org/10.1038/s41591-018-0021-y)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29808008)
 
@@ -143,13 +143,13 @@ NPJ Schizophr. 2018 Aug 21;4(1):16<br>
 
 <b>Jaffe AE</b><sup>&dagger;</sup>, Tao R, Norris A, Kealhofer M,  Nellore A, Shin JH, Kim D, Hyde TM, Kleinman JE, Straub RE, Leek JT, Weinberger DR <br>
 A framework for RNA quality correction in differential expression analysis <br>
-Proc Natl Acad Sci U S A. 2017 Jul 3;114(27):7130-7135. <br>
+Proc Natl Acad Sci U S A. 2017 Jul 3;114(27):7130-7135<br>
 [DOI](http://dx.doi.org/10.1073/pnas.1617384114)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28634288)
 
 Collado-Torres L<sup>&lowast;</sup>, Nellore A<sup>&lowast;</sup>, Kammers K, Ellis SE, Taub MA, Hansen KD, <b>Jaffe AE</b><sup>&dagger;</sup>, Langmead B<sup>&dagger;</sup>, Leek JT<sup>&dagger;</sup> <br>
-Reproducible RNA-seq analysis using recount2. <br>
-Nat Biotechnol. 2017 Apr 11;35(4):319-321.  <br>
+Reproducible RNA-seq analysis using recount2<br>
+Nat Biotechnol. 2017 Apr 11;35(4):319-321<br>
 [DOI](http://dx.doi.org/10.1038/nbt.3838)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28398307)
 <span class='altmetric-embed' data-badge-type='4' data-doi="10.1038/nbt.3838"></span>
