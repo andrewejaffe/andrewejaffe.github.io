@@ -36,7 +36,7 @@ Parsana P*, Ruberman C*, <b>Jaffe AE</b>, Schatz MC, Battle A, Leek JT<br>
 Addressing confounding artifacts in reconstruction of gene co-expression networks.<br>
 [bioRxiv](https://www.biorxiv.org/content/early/2017/10/13/202903)
 
-Han S, Lin Y, Wang M, Goes FS, Tan K, Zandi P, Hyde T, Weinberger DR, Potash JB, Kleinman JE, Jaffe AE<br>
+Han S<sup>&dagger;</sup>, Lin Y, Wang M, Goes FS, Tan K, Zandi P, Hyde T, Weinberger DR, Potash JB, Kleinman JE, <b>Jaffe AE</b><br>
 Integrating brain methylome with GWAS for psychiatric risk gene discovery<br>
 [bioRxiv](https://www.biorxiv.org/content/10.1101/440206v2)
 
@@ -48,7 +48,7 @@ Acta Neuropathol. 2019 Apr;137(4):557-569.<br>
 [DOI](http://dx.doi.org/10.1007/s00401-019-01966-5)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30712078)
 
-Pergola G, Carlo PD, Jaffe AE, Papalino M, Chen Q, Hyde TM, Kleinman JE, Shin JH, Rampino A, Blasi G, Weinberger DR, Bertolino A<br>
+Pergola G, Carlo PD, <b>Jaffe AE</b>, Papalino M, Chen Q, Hyde TM, Kleinman JE, Shin JH, Rampino A, Blasi G, Weinberger DR, Bertolino A<br>
 Prefrontal co-expression of schizophrenia risk genes is associated with treatment response in patients<br>
 Biological Psychiatry, In Press. 2019
 [DOI](http://doi.org/10.1016/j.biopsych.2019.03.981)
@@ -67,7 +67,7 @@ Mol Psychiatry. 2019 Jan 11<br>
 
 Wolf RM, <b>Jaffe AE</b>, Steele KE, Schweitzer MA, Magnuson TH, Wolfe A, Wong GW<br>
 Cytokine, chemokine and cytokine receptor changes are associated with metabolic improvements after bariatric surgery<br>
-J Clin Endocrinol Metab. 2019 Mar 1;104(3):947-956
+J Clin Endocrinol Metab. 2019 Mar 1;104(3):947-956<br>
 [DOI](http://dx.doi.org/10.1210/jc.2018-02245)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30544212)
 
@@ -79,15 +79,15 @@ Science. 2018 Dec 14;362(6420)<br>
 [DOI](http://dx.doi.org/10.1126/science.aat8464)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30545857)
 
-Gandal MJ, Zhang P, Hadjimichael E, Walker RL, Chen C, Liu S, Won H, van Bakel H, Varghese M, Wang Y, Shieh AW, Haney J, Parhami S, Belmont J, Kim M, Moran Losada P, Khan Z, Mleczko J, Xia Y, Dai R, Wang D, Yang YT, Xu M, Fish K, Hof PR, Warrell J, Fitzgerald D, White K, Jaffe AE, PsychENCODE Consortium, Peters MA, Gerstein M, Liu C, Iakoucheva LM, Pinto D, Geschwind DH<br>
+Gandal MJ, Zhang P, Hadjimichael E, Walker RL, Chen C, Liu S, Won H, van Bakel H, Varghese M, Wang Y, Shieh AW, Haney J, Parhami S, Belmont J, Kim M, Moran Losada P, Khan Z, Mleczko J, Xia Y, Dai R, Wang D, Yang YT, Xu M, Fish K, Hof PR, Warrell J, Fitzgerald D, White K, <b>Jaffe AE</b>, PsychENCODE Consortium, Peters MA, Gerstein M, Liu C, Iakoucheva LM, Pinto D, Geschwind DH<br>
 Transcriptome-wide isoform-level dysregulation in ASD, schizophrenia, and bipolar disorder<br>
 Science. 2018 Dec 14;362(6420)<br>
 [DOI](http://dx.doi.org/10.1126/science.aat8127)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30545856)
 
 Semick SA, Collado-Torres L, Markunas CA, Shin JH, Deep-Soboslay A, Tao R, Bierut LJ, Maher BS, Johnson EO, Hyde TM, Weinberger DR, Hancock DB, Kleinman JE<sup>&dagger;</sup>, <b>Jaffe AE</b><sup>&dagger;</sup><br>
-Molecular Psychiatry. 2018 August 21.
 Developmental effects of maternal smoking during pregnancy on the human frontal cortex transcriptome<br>
+Molecular Psychiatry. 2018 August 21<br>
 [DOI](http://dx.doi.org/10.1038/s41380-018-0223-1)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30131587)
 
@@ -103,7 +103,7 @@ Elife. 2018 Sep 7;7. pii: e33676<br>
 [DOI](http://dx.doi.org/10.7554/eLife.33676)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30192229)
 
-Radulescu E, Jaffe AE, Straub RE, Chen Q, Shin JH, Hyde TM, Kleinman JE, Weinberger DR<br>
+Radulescu E, <b>Jaffe AE</b>, Straub RE, Chen Q, Shin JH, Hyde TM, Kleinman JE, Weinberger DR<br>
 Identification and prioritization of gene sets associated with schizophrenia risk by co-expression network analysis in human brain<br>
 Mol Psychiatry. 2018 Nov 26<br>
 [DOI](http://dx.doi.org/10.1038/s41380-018-0304-1)
@@ -127,9 +127,9 @@ Nat Med. 2018 Jun;24(6):792-801.
 [DOI](http://dx.doi.org/10.1038/s41591-018-0021-y)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29808008)
 
-Ellis SE, Collado-Torres L, <b>Jaffe A<b>, Leek JT<br>
+Ellis SE, Collado-Torres L, <b>Jaffe A</b>, Leek JT<br>
 Improving the value of public RNA-seq expression data by phenotype prediction<br>
-Nucleic Acids Res. 2018;46(9):e54.
+Nucleic Acids Res. 2018;46(9):e54<br>
 [DOI](http://dx.doi.org/10.1093/nar/gky102)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/29514223)
 
