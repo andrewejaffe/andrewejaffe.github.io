@@ -16,7 +16,7 @@ permalink: "publications.html"
 
 #### Preprints
 
-Price AJ*, Collado-Torres L*, Ivanov NA, Xia W, Burke EE, Shin JH, Tao R, Ma L, Jia Y, Hyde TM, Kleinman JE, Weinberger DR, <b>Jaffe AE</b><sup>&dagger;</sup><br>
+Price AJ\*, Collado-Torres L\*, Ivanov NA, Xia W, Burke EE, Shin JH, Tao R, Ma L, Jia Y, Hyde TM, Kleinman JE, Weinberger DR, <b>Jaffe AE</b><sup>&dagger;</sup><br>
 Divergent neuronal DNA methylation patterns across human cortical development: Critical periods and a unique role of CpH methylation<br>
 [bioRxiv](https://www.biorxiv.org/content/10.1101/428391v1)
 
@@ -28,11 +28,11 @@ BDN Phan, Page SC, Campbell MN, Bohlen JF, Thaxton CL, Simon JM, Burke EE, Shin 
 Defects of myelination are common pathophysiology in syndromic and idiopathic autism spectrum disorders <br>
 [bioRxiv](http://biorxiv.org/content/early/2017/04/18/128124)
 
-Burke EE*, Chenoweth JG*, Shin JH, Collado-Torres L, Kim SK, Micali N, Wang Y, Straub RE, Hoeppner DJ, Chen H-Y, Lescure A, Shibbani K, Hamersky GR, Phan BN, Ulrich WS, Valencia C, Jaishankar A, Price AJ, Rajpurohit A, Semick SA, Bürli R, Barrow JC, Hiler DJ, Page SC, Martinowich K, Hyde TM, Kleinman JE, Berman KF, Apud JA, Cross AJ, Brandon NJ, Weinberger DR, Maher BJ, McKay RD<sup>&dagger;</sup>, <b>Jaffe AE</b><sup>&dagger;</sup><br>
+Burke EE\*, Chenoweth JG\*, Shin JH, Collado-Torres L, Kim SK, Micali N, Wang Y, Straub RE, Hoeppner DJ, Chen H-Y, Lescure A, Shibbani K, Hamersky GR, Phan BN, Ulrich WS, Valencia C, Jaishankar A, Price AJ, Rajpurohit A, Semick SA, Bürli R, Barrow JC, Hiler DJ, Page SC, Martinowich K, Hyde TM, Kleinman JE, Berman KF, Apud JA, Cross AJ, Brandon NJ, Weinberger DR, Maher BJ, McKay RD<sup>&dagger;</sup>, <b>Jaffe AE</b><sup>&dagger;</sup><br>
 Dissecting transcriptomic signatures of neuronal differentiation and maturation using iPSCs <br>
 [bioRxiv](https://www.biorxiv.org/content/early/2018/07/31/380758)
 
-Parsana P*, Ruberman C*, <b>Jaffe AE</b>, Schatz MC, Battle A, Leek JT<br>
+Parsana P\*, Ruberman C\*, <b>Jaffe AE</b>, Schatz MC, Battle A, Leek JT<br>
 Addressing confounding artifacts in reconstruction of gene co-expression networks.<br>
 [bioRxiv](https://www.biorxiv.org/content/early/2017/10/13/202903)
 
@@ -42,7 +42,7 @@ Integrating brain methylome with GWAS for psychiatric risk gene discovery<br>
 
 #### 2019
 
-Semick SA*, Bharadwaj RA*, Collado-Torres L, Tao R, Shin JH, Deep-Soboslay A, Weiss J, Weinberger DR, Hyde TM, Kleinman JE <b>Jaffe AE</b><sup>&dagger;</sup>, Mattay VS<sup>&dagger;</sup><br>
+Semick SA\*, Bharadwaj RA\*, Collado-Torres L, Tao R, Shin JH, Deep-Soboslay A, Weiss J, Weinberger DR, Hyde TM, Kleinman JE <b>Jaffe AE</b><sup>&dagger;</sup>, Mattay VS<sup>&dagger;</sup><br>
 Integrated DNA methylation and gene expression profiling across multiple brain regions implicate novel genes in Alzheimer's disease. 
 Acta Neuropathol. 2019 Apr;137(4):557-569.<br>
 [DOI](http://dx.doi.org/10.1007/s00401-019-01966-5)
@@ -59,7 +59,7 @@ Biol Psychiatry. 2019 Mar 1;85(5):417-424 <br>
 [DOI](http://doi.org/10.1016/j.biopsych.2018.11.002)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30600091)
 
-Ma L*, Semick SA*, Chen Q, Li C, Tao R, Price AJ, Shin JH, Jia Y, BrainSeq Consortium, Brandon NJ, Cross AJ, Hyde TM, Kleinman JE, <b>Jaffe AE</b>, Weinberger DR, Straub RE<br>
+Ma L\*, Semick SA\*, Chen Q, Li C, Tao R, Price AJ, Shin JH, Jia Y, BrainSeq Consortium, Brandon NJ, Cross AJ, Hyde TM, Kleinman JE, <b>Jaffe AE</b>, Weinberger DR, Straub RE<br>
 Schizophrenia risk variants influence multiple classes of transcripts of sorting nexin 19 (SNX19)<br>
 Mol Psychiatry. 2019 Jan 11<br>
 [DOI](http://dx.doi.org/10.1038/s41380-018-0293-0)
