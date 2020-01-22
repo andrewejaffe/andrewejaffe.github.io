@@ -49,9 +49,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 <br><br><br><br><br><br><br><br><br>
 
-## Postdoctoral Fellows
-
-
 ## PhD Students
 
 &nbsp;&nbsp;&nbsp;Matt Nguyen<br>
