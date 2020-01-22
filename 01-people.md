@@ -11,7 +11,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Andrew E. Jaffe, Ph.D.<br>
 &nbsp;&nbsp;&nbsp;[Lead Investigator](http://libd.org/contact/staff-directory/27-andrew-jaffe)<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-&nbsp;&nbsp;&nbsp;[Assistant Professor](http://www.jhsph.edu/faculty/directory/profile/5291/Jaffe/Andrew%20E.)<br>
+&nbsp;&nbsp;&nbsp;[Associate Professor](http://www.jhsph.edu/faculty/directory/profile/5291/Jaffe/Andrew%20E.)<br>
 &nbsp;&nbsp;&nbsp;[Department of Mental Health](http://www.jhsph.edu/departments/mental-health/)<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/)<br>
 &nbsp;&nbsp;&nbsp;[Johns Hopkins Bloomberg School of Public Health](www.jhsph.edu)<br>
