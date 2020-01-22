@@ -39,13 +39,18 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
 <br><br><br><br><br><br><br><br><br>
 
+&nbsp;&nbsp;&nbsp;Nick Eagles<br>
+&nbsp;&nbsp;&nbsp;Research Assistant<br>
+&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
+<br><br><br><br><br><br><br><br><br>
+
+&nbsp;&nbsp;&nbsp;Josh Stolz<br>
+&nbsp;&nbsp;&nbsp;Research Associate<br>
+&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
+<br><br><br><br><br><br><br><br><br>
+
 ## Postdoctoral Fellows
 
-<img src="media/people/amanda.jpg" alt="Amanda Price, Ph.D." style="width: 125px;" align="left"/>
-&nbsp;&nbsp;&nbsp;Amanda Price, Ph.D. <br>
-&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
-&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br>
 
 ## PhD Students
 
@@ -55,14 +60,26 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Institute of Genetic Medicine](http://igm.jhmi.edu/)<br>
 <br><br><br><br><br><br>
 
-&nbsp;&nbsp;&nbsp;Brianna Berry<br>
+&nbsp;&nbsp;&nbsp;Brianna Barry<br>
 &nbsp;&nbsp;&nbsp;PhD Student<br>
 &nbsp;&nbsp;&nbsp;BCMB Program<br>
 &nbsp;&nbsp;&nbsp;[John Hopkins School of Medicine](http://igm.jhmi.edu/)<br>
 &nbsp;&nbsp;&nbsp;Co-advisor: [Keri Martinowich](http://igm.jhmi.edu/)<br>
 <br><br><br><br><br><br>
 
+&nbsp;&nbsp;&nbsp;Kira Mandell<br>
+&nbsp;&nbsp;&nbsp;PhD Student<br>
+&nbsp;&nbsp;&nbsp;Human Genetics Program<br>
+&nbsp;&nbsp;&nbsp;[Institute of Genetic Medicine](http://igm.jhmi.edu/)<br>
+<br><br><br><br><br><br>
+
 ## Alumni
+
+<img src="media/people/amanda.jpg" alt="Amanda Price, Ph.D." style="width: 125px;" align="left"/>
+&nbsp;&nbsp;&nbsp;Amanda Price, Ph.D. <br>
+&nbsp;&nbsp;&nbsp;AAAS Fellow<br>
+&nbsp;&nbsp;&nbsp;NICHD<br>
+<br><br><br><br><br><br>
 
 <img src="media/people/steve.jpg" alt="Stephen Semick, B.S." style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Stephen Semick<br>
