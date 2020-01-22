@@ -27,27 +27,21 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://www.biostat.jhsph.edu/~lcollado/#.VO-HmvnF98E)<br>
 <br><br><br><br><br><br>
 
-<img src="media/people/emily.jpg" alt="Emily Burke, M.S." style="width: 125px;" align="left"/>
-&nbsp;&nbsp;&nbsp;Emily Burke<br>
-&nbsp;&nbsp;&nbsp;Data Scientist, Staff<br>
-&nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br><br><br>
-
 <img src="media/people/maddie.jpg" alt="Madhavi Tippani, M.S." style="width: 125px;" align="left"/>
 &nbsp;&nbsp;&nbsp;Madhavi Tippani<br>
 &nbsp;&nbsp;&nbsp;Research Associate<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br><br><br><br>
+<br><br>
 
 &nbsp;&nbsp;&nbsp;Nick Eagles<br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br><br><br><br>
+<br><br>
 
 &nbsp;&nbsp;&nbsp;Josh Stolz<br>
 &nbsp;&nbsp;&nbsp;Research Associate<br>
 &nbsp;&nbsp;&nbsp;[Lieber Institute for Brain Development](http://www.libd.org)<br>
-<br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ## PhD Students
 
@@ -55,20 +49,20 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;PhD Student<br>
 &nbsp;&nbsp;&nbsp;Human Genetics Program<br>
 &nbsp;&nbsp;&nbsp;[Institute of Genetic Medicine](http://igm.jhmi.edu/)<br>
-<br><br><br><br><br><br>
+<br><br>
 
 &nbsp;&nbsp;&nbsp;Brianna Barry<br>
 &nbsp;&nbsp;&nbsp;PhD Student<br>
 &nbsp;&nbsp;&nbsp;BCMB Program<br>
 &nbsp;&nbsp;&nbsp;[John Hopkins School of Medicine](http://igm.jhmi.edu/)<br>
 &nbsp;&nbsp;&nbsp;Co-advisor: [Keri Martinowich](http://igm.jhmi.edu/)<br>
-<br><br><br><br><br><br>
+<br><br>
 
 &nbsp;&nbsp;&nbsp;Kira Mandell<br>
 &nbsp;&nbsp;&nbsp;PhD Student<br>
 &nbsp;&nbsp;&nbsp;Human Genetics Program<br>
 &nbsp;&nbsp;&nbsp;[Institute of Genetic Medicine](http://igm.jhmi.edu/)<br>
-<br><br><br><br><br><br>
+<br><br>
 
 ## Alumni
 
@@ -95,3 +89,10 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Medical Student<br>
 &nbsp;&nbsp;&nbsp;Weill Cornell Medicine<br>
 <br><br><br><br><br><br><br><br><br><br>
+
+<img src="media/people/emily.jpg" alt="Emily Burke, M.S." style="width: 125px;" align="left"/>
+&nbsp;&nbsp;&nbsp;Emily Burke<br>
+&nbsp;&nbsp;&nbsp;Data Scientist<br>
+&nbsp;&nbsp;&nbsp;Baltimore City<br>
+<br><br><br><br><br><br><br><br>
+
