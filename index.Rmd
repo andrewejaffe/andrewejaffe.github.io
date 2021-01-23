@@ -1,0 +1,17 @@
+---
+title: "Andrew Jaffe"
+image: "Jaffe.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ajaffe/"
+  - label: Twitter
+    url: "https://twitter.com/andrewejaffe"
+  - label: GitHub
+    url: "https://github.com/andrewejaffe"
+  - label: Email
+    url: "mailto:andrewejaffe@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a computational biologist and data scientist. I currently am an Associate Professor at Johns Hopkins University on academic leave. 
