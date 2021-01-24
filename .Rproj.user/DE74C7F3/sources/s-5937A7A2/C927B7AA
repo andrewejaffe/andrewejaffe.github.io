@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1114432417",
     "id" : "C927B7AA",
-    "lastKnownWriteTime" : 1611519918,
-    "last_content_update" : 1611519918349,
+    "lastKnownWriteTime" : 1611520221,
+    "last_content_update" : 1611520221674,
     "path" : "~/GitHub/andrewejaffe.github.io/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "28,54",
+        "cursorPosition" : "22,175",
         "scrollLine" : "19"
     },
     "read_only" : false,
