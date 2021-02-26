@@ -16,7 +16,7 @@ output:
  
 #### Bio 
 
-I work at the intersection of biological psychiatry, computational biology, and biostatistics, leveraging large human datasets to better understand how genomic signatures associate with brain development and subsequent dysregulation in brain disorders. 
+I work at the intersection of biological psychiatry, computational biology, and biostatistics, leveraging large human datasets to quantify genomic signatures that associate with brain development and subsequent dysregulation in brain disorders 
 
 #### Positions
 
