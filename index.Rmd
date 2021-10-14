@@ -6,10 +6,10 @@ links:
     url: "https://scholar.google.com/citations?user=SYXodmQAAAAJ&hl=en"
   - label: Twitter
     url: "https://twitter.com/andrewejaffe"
-  - label: GitHub
-    url: "https://github.com/andrewejaffe"
   - label: Email
     url: "mailto:andrewejaffe@gmail.com"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ajaffe/"
 output:
   postcards::trestles
 ---
@@ -20,9 +20,11 @@ I work at the intersection of biological psychiatry, computational biology, and 
 
 #### Positions
 
-- Associate Professor, Johns Hopkins University (Departments of Mental Health, Biostatistics, Psychiatry & Behavioral Sciences, Neuroscience, and Human Genetics) [2013-Present]
+- VP, Head of Data Sciences. [Neumora Therapeutics](https://www.neumoratx.com) [2020-Present]
 
-- Lead Investigator, Lieber Institute for Brain Development [2012-2020]
+- Associate Professor, [Johns Hopkins University](https://publichealth.jhu.edu/faculty/2772/andrew-e-jaffe)  (Departments of Mental Health, Biostatistics, Psychiatry & Behavioral Sciences, Neuroscience, and Human Genetics) [2013-Present]
+
+- Lead Investigator, [Lieber Institute for Brain Development](https://www.libd.org) [2012-2020]
 
 #### Lab Alumni
 
