@@ -10,8 +10,8 @@ links:
     url: "mailto:andrewejaffe@gmail.com"
   - label: Scholar
     url: "https://scholar.google.com/citations?user=SYXodmQAAAAJ&hl=en"
-  - label: Twitter
-    url: "https://twitter.com/andrewejaffe"
+  - label: Resume
+    url: "resume.pdf"
 output:
   postcards::trestles:
     css: styles.css
