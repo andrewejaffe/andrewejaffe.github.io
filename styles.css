@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --ink: #10263b;
+  --accent: #0f766e;
+  --accent-dark: #0b5a53;
+  --accent-tint: #e5f4f2;
+  --bg: #f7f8fa;
+  --card-border: #e3e6ea;
+  --text: #29323c;
+  --text-muted: #5b6b7a;
+}
+
+html, body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+a {
+  color: var(--accent);
+}
+a:hover {
+  color: var(--accent-dark);
+}
+
+/* Decorative divider between sidebar and content on desktop */
+.border-left {
+  border-left: 1px solid var(--card-border) !important;
+}
+
+img {
+  border-radius: 50%;
+  box-shadow: 0 6px 24px rgba(16, 38, 59, 0.18);
+}
+
+/* Sidebar links: outlined pill buttons, readable on the default white background
+   in both the desktop (col-5) and mobile (stacked) layouts */
+.list-group-item.list-group-item-action,
+.btn.btn-outline-dark {
+  background: #fff;
+  border: 1.5px solid var(--accent) !important;
+  color: var(--accent-dark) !important;
+  border-radius: 999px;
+  margin: 4px;
+  font-weight: 600;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.list-group-item.list-group-item-action:hover,
+.btn.btn-outline-dark:hover {
+  background: var(--accent);
+  color: #fff !important;
+}
+
+/* Content area */
+#content .section.level4 h4,
+.container-flex.d-block #content .section.level4 h4 {
+  font-size: 1.4rem;
+  margin-top: 2.75rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--card-border);
+}
+#content .section.level4:first-of-type h4 {
+  margin-top: 0.5rem;
+}
+#content p {
+  color: var(--text);
+  line-height: 1.65;
+}
+
+/* Card grid (used for Consulting / Experience) */
+.aej-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1.1rem;
+  margin: 1.25rem 0 1.5rem;
+}
+.aej-card {
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 1.1rem 1.3rem;
+  box-shadow: 0 1px 2px rgba(16, 38, 59, 0.04);
+}
+.aej-card h5 {
+  margin: 0 0 0.35rem;
+  font-size: 1.02rem;
+  color: var(--accent-dark);
+}
+.aej-card p {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+.aej-dates {
+  font-size: 0.8rem !important;
+  color: var(--text-muted) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin: 0 0 0.5rem !important;
+}
+
+/* Expertise tags */
+.aej-tags {
+  margin: 0.5rem 0 1.5rem;
+}
+.aej-tag {
+  display: inline-block;
+  background: var(--accent-tint);
+  color: var(--accent-dark);
+  padding: 0.4rem 0.95rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin: 0.25rem 0.4rem 0.25rem 0;
+}
+
+/* CTA button */
+.aej-btn {
+  display: inline-block;
+  background: var(--accent);
+  color: #ffffff !important;
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none !important;
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+.aej-btn:hover {
+  background: var(--accent-dark);
+}
