@@ -58,18 +58,28 @@ img {
   color: #fff !important;
 }
 
-/* Content area */
-#content .section.level4 h4,
-.container-flex.d-block #content .section.level4 h4 {
+/* Bootstrap's .container caps out at 1140px even at xl breakpoints,
+   which crowds the card grids and images. Widen it (solana and trestles
+   both wrap their content in .container). */
+.container {
+  width: 92% !important;
+  max-width: 1500px !important;
+}
+
+/* Content area (selectors avoid #content, since the solana template
+   doesn't wrap sections in it the way trestles does) */
+.section.level4 h4 {
   font-size: 1.4rem;
   margin-top: 2.75rem;
   padding-bottom: 0.6rem;
   border-bottom: 2px solid var(--card-border);
 }
-#content .section.level4:first-of-type h4 {
+.section.level4:first-of-type h4 {
   margin-top: 0.5rem;
 }
-#content p {
+/* Direct-child paragraphs only (About/Publications prose), so card text
+   inside .aej-card-grid keeps its own narrower styling below */
+.section.level4 > p {
   color: var(--text);
   line-height: 1.65;
 }
