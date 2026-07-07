@@ -72,11 +72,65 @@ I'm currently exploring new full-time leadership roles in biotech and pharma, an
 </div>
 </div>
 
-#### Education
+#### Highlighted Projects
 
-- PhD, Epidemiology (Human Genetics/Genetic Epidemiology) — Johns Hopkins Bloomberg School of Public Health, 2011
-- MHS, Bioinformatics — Johns Hopkins Bloomberg School of Public Health, 2011
+<div class="aej-card-grid">
+<div class="aej-card">
+<img class="aej-card-img" src="images/causal_ml.png" alt="Causal machine learning framework for predicting drug and placebo response">
+<h5>Causal machine learning to predict drug (or placebo) response</h5>
+<p>Developed and applied a causal modeling framework for reducing placebo response and increasing trial-level efficacy in neuropsychiatry clinical trials.</p>
+<div class="aej-card-links">
+<a href="https://www.medrxiv.org/content/10.64898/2026.06.03.26354808v1.full-text">Preprint →</a>
+</div>
+</div>
+<div class="aej-card">
+<img class="aej-card-img" src="images/spatial_dlpfc.png" alt="Spatial transcriptomics map of the human dorsolateral prefrontal cortex">
+<h5>Spatial transcriptomics of the human brain</h5>
+<p>Used spatial transcriptomics (10x Visium) to map layer-specific gene expression across the six layers of the human dorsolateral prefrontal cortex, linked laminar signatures to risk genes, and built an unsupervised clustering framework and public web app (spatialLIBD) for exploring the data.</p>
+<div class="aej-card-links">
+<a href="https://www.nature.com/articles/s41593-020-00787-0">Paper →</a>
+</div>
+</div>
+<div class="aej-card">
+<img class="aej-card-img" src="images/stem_cell.png" alt="iPSC-derived neuron maturation analysis">
+<h5>Modeling maturation and disease biology using iPSC-derived neurons</h5>
+<p>Developed computational tools to assess the maturity of iPSC-derived neurons using transcriptomics and electrophysiology, and identified deficits in schizophrenia.</p>
+<div class="aej-card-links">
+<a href="https://www.nature.com/articles/s41467-019-14266-z">Paper 1 →</a>
+<a href="https://www.pnas.org/doi/full/10.1073/pnas.2109395119">Paper 2 →</a>
+</div>
+</div>
+<div class="aej-card">
+<img class="aej-card-img" src="images/de_analysis.png" alt="Genotype-phenotype mapping in the human brain">
+<h5>Genotype-phenotype mapping in the human brain</h5>
+<p>Leveraged human postmortem brain tissue and cellular models to identify molecular mechanisms and signatures related to the causes and consequences of severe mental illness.</p>
+<div class="aej-card-links">
+<a href="https://www.nature.com/articles/s41593-018-0197-y">Paper 1 →</a>
+<a href="https://www.cell.com/neuron/fulltext/S0896-6273(19)30438-6">Paper 2 →</a>
+<a href="https://www.nature.com/articles/s41593-020-0604-z">Paper 3 →</a>
+<a href="https://www.nature.com/articles/nn.4181">Paper 4 →</a>
+</div>
+</div>
+<div class="aej-card">
+<img class="aej-card-img" src="images/dna_meth.png" alt="DNA methylation analysis of heterogeneous tissues">
+<h5>DNA methylation analyses of heterogeneous tissues</h5>
+<p>Developed statistical strategies and software for analyzing DNA methylation data from mixtures of cell types.</p>
+<div class="aej-card-links">
+<a href="https://link.springer.com/article/10.1186/gb-2014-15-2-r31">Paper →</a>
+</div>
+</div>
+<div class="aej-card">
+<img class="aej-card-img" src="images/single_cell.jpg" alt="Single-nucleus RNA sequencing of the human brain">
+<h5>Single-nucleus RNA sequencing of the human brain</h5>
+<p>Created a single-nucleus RNA-sequencing resource of 70,615 high-quality nuclei to generate a molecular taxonomy of cell types across five human brain regions that serve as key nodes of the human brain reward circuitry.</p>
+<div class="aej-card-links">
+<a href="https://www.cell.com/neuron/fulltext/S0896-6273(21)00655-3">Paper →</a>
+</div>
+</div>
+</div>
+
 
 #### Publications
 
-145+ peer-reviewed research articles, an H-index of 69, and recognition as a Highly Cited Researcher (top 1% of research, 2018). Full list on [Google Scholar](https://scholar.google.com/citations?user=SYXodmQAAAAJ&hl=en).
+145+ peer-reviewed research articles, an H-index of 69, and recognition as a Highly Cited Researcher (top 1% of research, 2018) across computational biology, psychiatric genetics, and statistical methods development.  Full list on [Google Scholar](https://scholar.google.com/citations?user=SYXodmQAAAAJ&hl=en).
+
