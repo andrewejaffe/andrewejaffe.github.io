@@ -1,6 +1,6 @@
 ---
 title: "Andrew E. Jaffe"
-image: "Jaffe.jpg"
+image: "images/Jaffe.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ajaffe/"
