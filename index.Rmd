@@ -13,15 +13,17 @@ links:
   - label: Resume
     url: "resume.pdf"
 output:
-  postcards::trestles:
+  postcards::solana:
     css: styles.css
 ---
 
 #### About
 
-I'm a data science and computational biology executive with 15+ years of experience building and leading cross-functional data science, machine learning, and computational biology teams — most recently as VP, Head of Data Sciences at [Neumora Therapeutics](https://www.neumoratx.com). I translate between data science, life sciences, and clinical sciences to maximize the impact of drug discovery and development programs, from early target discovery through Phase 3 clinical trials.
+I'm a data science and computational biology executive with 15+ years of experience building and leading cross-functional data science, machine learning, and computational biology teams in biotech and academia. I translate between data science, life sciences, and clinical sciences to maximize the impact of drug discovery and development programs, from early target discovery through Phase 3 clinical trials.
 
-I'm currently exploring new full-time leadership roles in biotech and pharma, and taking on a limited number of fractional and advisory engagements.
+Most recently, as VP, Head of Data Sciences at [Neumora Therapeutics](https://www.neumoratx.com), I led a team of data and machine learning scientists across the full R&D pipeline, co-invented multiple clinical ML and therapeutic-use patents, and regularly engaged our executive committee, Board of Directors, and Series A investors. Before that, I spent seven years building a functional genomics research program at the Lieber Institute for Brain Development and Johns Hopkins — securing $20M+ in NIH funding, publishing 145+ research articles, and being named a Highly Cited Researcher (top 1% of research, 2018).
+
+I'm currently exploring new full-time leadership roles in biotech and pharma, and taking on a limited number of fractional and advisory engagements in the meantime — see below.
 
 #### Consulting
 
