@@ -25,52 +25,6 @@ Most recently, as VP, Head of Data Sciences at [Neumora Therapeutics](https://ww
 
 I'm currently exploring new full-time leadership roles in biotech and pharma, and taking on a limited number of fractional and advisory engagements in the meantime — see below.
 
-#### Consulting
-
-<div class="aej-card-grid">
-<div class="aej-card">
-<h5>Fractional / interim leadership</h5>
-<p>Embedded, part-time Head/VP of Data Science for biotech companies that need senior leadership without a full-time hire.</p>
-</div>
-<div class="aej-card">
-<h5>Hourly advisory</h5>
-<p>Strategy sessions and technical review on data science, computational biology, and team-building questions.</p>
-</div>
-<div class="aej-card">
-<h5>Project-based engagements</h5>
-<p>Scoped projects such as a data science org build-out plan, computational pipeline audit, or genomics data strategy.</p>
-</div>
-</div>
-
-#### Expertise
-
-<div class="aej-tags">
-<span class="aej-tag">Data science team leadership</span>
-<span class="aej-tag">AI/ML for clinical development</span>
-<span class="aej-tag">Computational biology & genomics</span>
-<span class="aej-tag">Clinical data science</span>
-<span class="aej-tag">AI/ML for drug discovery</span>
-</div>
-
-#### Experience
-
-<div class="aej-card-grid">
-<div class="aej-card">
-<h5>VP, Head of Data Sciences — Neumora Therapeutics</h5>
-<p class="aej-dates">2020–2026</p>
-<p>Led a cross-functional data science, ML, and computational biology team spanning the full drug discovery/development pipeline, from target discovery through Phase 3 neuropsychiatric and neurodegenerative trials. Co-inventor on multiple clinical ML and therapeutic-use patents. Developed fit-for-purpose development strategies to enhance drug response and reduce placebo response using wide array of data modalities.</p>
-</div>
-<div class="aej-card">
-<h5>Group Leader, Data Science & Lead Investigator — Lieber Institute for Brain Development</h5>
-<p class="aej-dates">2013–2020</p>
-<p>Built and led a lab of 10+ scientists studying the genomics of brain development and severe mental illness. Principal Investigator on 10 NIH grants totaling $20M+. Published 145+ research articles (H-index 65).</p>
-</div>
-<div class="aej-card">
-<h5> Professor (Adjunct) — Johns Hopkins University</h5>
-<p class="aej-dates">2013–Present</p>
-<p>Departments of Psychiatry & Behavioral Sciences and Neuroscience </p>
-</div>
-</div>
 
 #### Highlighted Projects
 
@@ -129,6 +83,53 @@ I'm currently exploring new full-time leadership roles in biotech and pharma, an
 </div>
 </div>
 
+
+#### Consulting
+
+<div class="aej-card-grid">
+<div class="aej-card">
+<h5>Fractional / interim leadership</h5>
+<p>Embedded, part-time Head/VP of Data Science for biotech companies that need senior leadership without a full-time hire.</p>
+</div>
+<div class="aej-card">
+<h5>Hourly advisory</h5>
+<p>Strategy sessions and technical review on data science, computational biology, and team-building questions.</p>
+</div>
+<div class="aej-card">
+<h5>Project-based engagements</h5>
+<p>Scoped projects such as a data science org build-out plan, computational pipeline audit, or genomics data strategy.</p>
+</div>
+</div>
+
+#### Expertise
+
+<div class="aej-tags">
+<span class="aej-tag">Data science team leadership</span>
+<span class="aej-tag">AI/ML for clinical development</span>
+<span class="aej-tag">Computational biology & genomics</span>
+<span class="aej-tag">Clinical data science</span>
+<span class="aej-tag">AI/ML for drug discovery</span>
+</div>
+
+#### Experience
+
+<div class="aej-card-grid">
+<div class="aej-card">
+<h5>VP, Head of Data Sciences — Neumora Therapeutics</h5>
+<p class="aej-dates">2020–2026</p>
+<p>Led a cross-functional data science, ML, and computational biology team spanning the full drug discovery/development pipeline, from target discovery through Phase 3 neuropsychiatric and neurodegenerative trials. Co-inventor on multiple clinical ML and therapeutic-use patents. Developed fit-for-purpose development strategies to enhance drug response and reduce placebo response using wide array of data modalities.</p>
+</div>
+<div class="aej-card">
+<h5>Group Leader, Data Science & Lead Investigator — Lieber Institute for Brain Development</h5>
+<p class="aej-dates">2013–2020</p>
+<p>Built and led a lab of 10+ scientists studying the genomics of brain development and severe mental illness. Principal Investigator on 10 NIH grants totaling $20M+. Published 145+ research articles (H-index 65).</p>
+</div>
+<div class="aej-card">
+<h5> Professor (Adjunct) — Johns Hopkins University</h5>
+<p class="aej-dates">2013–Present</p>
+<p>Departments of Psychiatry & Behavioral Sciences and Neuroscience </p>
+</div>
+</div>
 
 #### Publications
 
